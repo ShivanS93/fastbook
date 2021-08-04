@@ -1,0 +1,2430 @@
+
+<!DOCTYPE html>
+<html class="no-js no-touch" lang="en-US">
+<head>
+    
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="noindex, nofollow">
+
+    <link rel="stylesheet" type="text/css" href="/themes/OAP/bundle.css?v=1.21.2-hotfix00000002">
+
+    
+
+    
+<meta name="VIcurrentDateTime" content="637635562580197960" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    
+
+<script>
+    var dataLayer = window["dataLayer"] || [];
+    if (!window.wsf) { window.wsf = { AnalyticsVariables: {} }; }
+    window.wsf.AnalyticsVariables = {"brand":"OAP","language":"en","country":"us","siteTypeLevel":"main","currencyCode":"USD"};
+</script>
+
+<script>
+    if (!window.wsf) {
+        window.wsf = { AnalyticsVariables: {} };
+    }
+    window.wsf.AnalyticsVariablesDynamic = {};
+
+window.wsf.AnalyticsVariables.pageCategory = 'error page';
+window.wsf.AnalyticsVariablesDynamic.pagecategory = 'error page';
+    dataLayer.push(window.wsf.AnalyticsVariables);
+
+</script>
+
+<script type="text/javascript">
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TS5BHPL');
+</script>
+
+
+
+
+
+    <title>L'Oréal Paris</title>
+
+
+
+
+<link href="https://www.lorealparisusa.com:443/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/l-oreal-paris-favicon.png" rel="shortcut icon" />    
+
+
+<meta  property="og:description" content="Discover the article 404 Not Found Page" /><meta  property="og:type" content="article" /><meta  property="og:site_name" content="L'Oréal Paris" /><meta  property="og:title" content="404 Not Found Page - L'Oréal Paris" /><meta  property="og:url" content="/~/media/images/lop/home/beauty-library/articles/makeup-for-blue-eyes/loreal-paris-bmag-article-how-to-make-blue-eyes-pops-with-makeup-d.jpg" />    
+
+
+<meta name="description"  content="Discover the article 404 Not Found Page on the L'Oréal Paris website." />    
+
+
+<meta name="twitter:site"  content="@lorealparis" /><meta name="twitter:description"  content="Discover the article 404 Not Found Page on Twitter." /><meta name="twitter:title"  content="404 Not Found Page" /><meta name="twitter:card"  content="summary_large_image" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <script type="text/javascript">
+
+        
+        var yieldifyNewsletterSubscribed = false;
+        var yieldifyLoggedInStatus = false;
+        
+
+        (function (e, t, n) { 
+            try { 
+                var c = ["scroll", "mousedown", "mousemove", "click", "keydown", "touchstart"], 
+                o = function () { 
+                    var c = t.createElement("script"); 
+                    c.src = n + "&loca=" + e.location.href, 
+                    c.async = !0, 
+                    t.getElementsByTagName("head")[0].appendChild(c) 
+                }; 
+                if (/_yi=/.test(t.cookie)) o(); 
+                else { 
+                    var r = function (t, n) { 
+                        t.forEach(function (t) { 
+                            return e.removeEventListener(t, n) 
+                        }) 
+                    }, 
+                    a = function () { 
+                        try { 
+                            o(), 
+                            r(c, a) 
+                        } catch (e) {
+
+                        }
+                    }; 
+                    c.forEach(function (t) { 
+                        return e.addEventListener(t, a) 
+                    }) 
+                } 
+            } catch (e) {
+
+            } 
+        })(window, document, "https://td.yieldify.com/yieldify/code.js?w_uuid=9a740f44-caf9-4d2b-9222-d66ce9329cc3&k=1");
+    </script>
+
+    
+    
+</head>
+<body class="default-device USCD  ">
+    <script>
+        var html = document.querySelector('html')
+        html.classList.remove('no-js')
+        if (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+            html.classList.remove('no-touch')
+            html.classList.add('has-touch')
+        }
+    </script>
+    <div style="display: none" class="svg-container">
+        <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol viewBox="0 0 16 16" id="arrow-back"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M12.082 15.67l.084-.097a1.125 1.125 0 0 0-.006-1.382L6.327 8l5.822-6.178.084-.117c.295-.486.19-1.11-.245-1.461a1.09 1.09 0 0 0-1.545.174L4.05 7.293l-.083.116c-.247.41-.217.92.073 1.287l6.413 6.898.083.092a1.09 1.09 0 0 0 1.452.07l.094-.085z"/>
+    </symbol>
+    <symbol viewBox="0 0 6 11" id="arrow-icon"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M.383 11L6 5.5.383 0 0 .372 5.234 5.5 0 10.628z" fill-rule="evenodd"/>
+    </symbol>
+    <symbol viewBox="0 0 19 39" id="arrow-next"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M2 2l15 17.5L2 37" stroke="#FFF" stroke-width="3" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol viewBox="0 0 19 39" id="arrow-prev"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M17 37L2 19.5 17 2" stroke="#FFF" stroke-width="3" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol id="arrow-search" viewBox="0 0 74 74" xml:space="preserve"
+        xmlns="http://www.w3.org/2000/svg">
+        <style>.aest0{fill:none;stroke:#9b9b9b;stroke-width:11;stroke-linecap:round}</style>
+        <g id="aeArrows_Search">
+            <path id="aeLine" class="aest0" d="M6.3 6.2l55.6 61.7"/>
+            <path id="aeLine-Copy" class="aest0" d="M6.3 6.2h49.4"/>
+            <path id="aeLine_1_" class="aest0" d="M6.3 6.2v49.3"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 18 20" id="bag"
+        xmlns="http://www.w3.org/2000/svg">
+        <g stroke="#FFF" stroke-width="2" fill="none" fill-rule="evenodd">
+            <path d="M1 7v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7H1zM5 7h8V5a4 4 0 1 0-8 0v2z"/>
+        </g>
+    </symbol>
+    <symbol class="agicon agicon-menu-toggle" viewBox="0 0 100 100" id="burger"
+        xmlns="http://www.w3.org/2000/svg">
+        <g class="agsvg-menu-toggle">
+            <path class="agline agline-1" d="M5 13h90v14H5z"/>
+            <path class="agline agline-2" d="M5 43h90v14H5z"/>
+            <path class="agline agline-3" d="M5 73h90v14H5z"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 40 40" id="carbon-footprint"
+        xmlns="http://www.w3.org/2000/svg">
+        <g fill="none" fill-rule="evenodd">
+            <circle stroke="#969696" fill="#FFF" cx="20" cy="20" r="19.5"/>
+            <path d="M10.954 16.745c1.133 0 2.056.626 2.67 1.809h3.043c-.745-2.96-3.043-4.803-5.729-4.803a5.674 5.674 0 0 0-4.19 1.776A6.09 6.09 0 0 0 5 19.873c0 1.776.55 3.264 1.634 4.465 1.099 1.244 2.653 1.94 4.272 1.911 2.767 0 4.952-1.776 5.712-4.701H13.56c-.614 1.116-1.57 1.725-2.654 1.725-1.585 0-3.01-1.472-3.01-3.383a3.213 3.213 0 0 1 .897-2.244 2.937 2.937 0 0 1 2.161-.901m12.821-2.995a6.214 6.214 0 0 0-4.427 1.762 6.111 6.111 0 0 0-1.848 4.36c0 1.781.58 3.273 1.727 4.477a6.052 6.052 0 0 0 4.531 1.9 6.193 6.193 0 0 0 4.48-1.882 6.226 6.226 0 0 0 1.761-4.443c-.028-3.398-2.798-6.145-6.224-6.173m-.017 9.513c-1.676 0-3.198-1.458-3.198-3.357a3.15 3.15 0 0 1 1.583-2.752 3.203 3.203 0 0 1 3.195 0 3.15 3.15 0 0 1 1.583 2.752c0 1.967-1.42 3.357-3.163 3.357M35 21.274c0-1.003-.787-1.69-2.083-1.69-1.264 0-2.075.833-2.084 2.16h1.473c0-.04-.008-.09-.008-.13 0-.526.242-.825.61-.825.36 0 .578.235.578.639 0 .81-.87 1.764-2.62 2.767v1.222h4.118V24.13H32.9c1.397-.874 2.1-1.925 2.1-2.856" fill="#969696" fill-rule="nonzero"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 28 22" id="check"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M2 10.162l7.84 8.161L25.469 2" stroke-width="4" fill="none" fill-rule="evenodd" stroke-linecap="round"/>
+    </symbol>
+    <symbol viewBox="0 0 16 16" id="close"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M14.96 1.04c.364.363.305 1.021-.116 1.524l-.103.113L9.418 8l5.323 5.323c.513.513.61 1.246.22 1.637-.364.364-1.022.305-1.525-.116l-.113-.103L8 9.418l-5.323 5.323c-.513.513-1.246.61-1.637.22-.364-.364-.305-1.022.116-1.525l.103-.113L6.582 8 1.259 2.677c-.513-.513-.61-1.246-.22-1.637.364-.364 1.022-.305 1.525.116l.113.103L8 6.582l5.323-5.323c.513-.513 1.246-.61 1.637-.22z"/>
+    </symbol>
+    <symbol viewBox="0 0 16 16" id="disabled"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zm5.135 3.854l-9.281 9.281a6.6 6.6 0 0 0 9.282-9.282zM8 1.4a6.6 6.6 0 0 0-5.135 10.746l9.281-9.281A6.572 6.572 0 0 0 8 1.4z" fill="#000" fill-rule="evenodd"/>
+    </symbol>
+    <symbol viewBox="0 0 60 60" id="disc"
+        xmlns="http://www.w3.org/2000/svg">
+        <circle cx="30" cy="30" r="30" fill-rule="evenodd"/>
+    </symbol>
+    <symbol viewBox="0 0 17 18" id="edit-pencil"
+        xmlns="http://www.w3.org/2000/svg">
+        <g fill-rule="nonzero" fill="none">
+            <path d="M14.425 5.904l-8.486 8.485-2.828-2.828 8.485-8.486a.997.997 0 0 1 1.414 0l1.415 1.415a.997.997 0 0 1 0 1.414z" stroke="#000" stroke-width="2"/>
+            <path fill="#000" d="M.99 12.268l4.242 4.242-4.95.708zM10.182 3.075l4.242 4.243-1.414 1.414L8.767 4.49z"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 22 15" id="email"
+        xmlns="http://www.w3.org/2000/svg">
+        <g stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd">
+            <path d="M2.038 1.036h16.988a1 1 0 0 1 1 1v10.88a1 1 0 0 1-1 1H2.038a1 1 0 0 1-1-1V2.037a1 1 0 0 1 1-1z"/>
+            <path d="M1.538 1.478l8.994 7.1M10.532 8.579l8.995-7.1" stroke-linecap="round"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 22 15" id="email-white"
+        xmlns="http://www.w3.org/2000/svg">
+        <g stroke="#FFF" stroke-width="2" fill="none" fill-rule="evenodd">
+            <path d="M2.038 1.036h16.988a1 1 0 0 1 1 1v10.88a1 1 0 0 1-1 1H2.038a1 1 0 0 1-1-1V2.037a1 1 0 0 1 1-1z"/>
+            <path d="M1.538 1.478l8.994 7.1M10.532 8.579l8.995-7.1" stroke-linecap="round"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 20 17" id="filter"
+        xmlns="http://www.w3.org/2000/svg">
+        <g transform="translate(1)" fill="none" fill-rule="evenodd">
+            <path d="M.648 2.5H17.51M.648 8.5H17.51M.648 14.5H17.51" stroke="currentColor" stroke-width="2" stroke-linecap="square"/>
+            <ellipse fill="currentColor" cx="7.5" cy="2.376" rx="2.5" ry="2.376"/>
+            <ellipse fill="currentColor" cx="3.5" cy="8.376" rx="2.5" ry="2.376"/>
+            <ellipse fill="currentColor" cx="12.5" cy="14.376" rx="2.5" ry="2.376"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 10.7 6.1" id="ico-arrow-up"
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="none" stroke="currentColor" d="M.4 5.7l5-5 5 5"/>
+    </symbol>
+    <symbol viewBox="0 0 15.9 15" id="ico-facebook"
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="currentColor" d="M11.9.1v2.4h-1.5c-.5 0-.8.1-1 .3s-.3.6-.3 1v1.7h2.7l-.4 2.7H9.1V15H6.3V8.2H4V5.5h2.4v-2c0-1.1.3-2 1-2.6S8.8 0 9.9 0c.9 0 1.5 0 2 .1z"/>
+    </symbol>
+    <symbol viewBox="0 0 15.9 15" id="ico-instagram"
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="currentColor" d="M9.6 9.2c.5-.5.7-1 .7-1.6s-.2-1.2-.7-1.6-1-.7-1.6-.7-1.2.2-1.7.7-.7 1-.7 1.6.2 1.2.7 1.6 1 .7 1.6.7 1.2-.2 1.7-.7zm.8-4.1c.7.7 1 1.5 1 2.5s-.3 1.8-1 2.5-1.5 1-2.5 1-1.8-.3-2.5-1-1.1-1.5-1.1-2.5.3-1.8 1-2.5 1.5-1 2.5-1 2 .3 2.6 1zm1.8-1.8c.2.2.2.4.2.6 0 .2-.1.4-.2.6-.1.1-.3.2-.6.2-.2 0-.4-.1-.6-.2-.1-.2-.2-.4-.2-.6s.1-.4.2-.6c.2-.3.4-.3.6-.3.3 0 .5.1.6.3zM8.6 1.9H5.3c-.4 0-.6 0-.9.1-.2 0-.4.1-.5.1-.4.2-.7.3-.9.6s-.3.5-.5.8c0 .1-.1.4-.1.6 0 .3-.1.6-.1.9v5.2c0 .4 0 .7.1.9 0 .3.1.5.2.7.1.2.3.5.4.7.2.2.5.4.8.5.2.1.4.1.7.2.3.1.6.1.9.1h5.2c.4 0 .7 0 .9-.1.3 0 .5-.1.7-.2.3-.1.6-.3.8-.5s.4-.5.5-.8c.1-.2.1-.4.2-.7 0-.3.1-.6.1-.9V4.9c0-.4 0-.7-.1-.9-.1-.2-.3-.5-.3-.6-.1-.3-.3-.6-.5-.8s-.5-.4-.8-.5c-.2-.1-.4-.1-.7-.2-.3 0-.6-.1-.9-.1h-.9c-.3.1-.5.1-1 .1zm6.3 2.8v5.8c-.1 1.3-.4 2.2-1.1 2.9s-1.7 1.1-2.9 1.1H5.1c-1.3-.1-2.2-.4-2.9-1.1S1 11.8.9 10.4V4.6C1 3.4 1.4 2.5 2 1.8S3.7.7 5 .6h5.8c1.3.1 2.2.4 2.9 1.1s1.1 1.7 1.2 3z"/>
+    </symbol>
+    <symbol viewBox="0 0 512 512" id="ico-mail"
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="currentColor" d="M464 88H52c-27.354 0-50 22.214-50 50v240c0 27.57 22.43 50 50 50h412c27.57 0 50-22.43 50-50V138c0-27.419-22.319-50-50-50zm-38.752 40L258 234.302 90.752 128h334.496zM474 378c0 5.514-4.486 10-10 10H52c-5.514 0-10-4.486-10-10V144.41l205.271 130.469a20 20 0 0 0 21.457 0L474 144.41V378z"/>
+    </symbol>
+    <symbol viewBox="0 0 15.9 15" id="ico-pinterest"
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="currentColor" d="M14.1 4c.6 1.1.9 2.2.9 3.5s-.3 2.4-.9 3.5c-.6 1.1-1.5 1.9-2.5 2.5-1.2.7-2.3 1-3.6 1-.7 0-1.3-.1-2-.3.4-.6.6-1.1.7-1.5.1-.2.2-.8.5-1.9.1.2.3.4.7.6.3.2.7.3 1 .3.7 0 1.4-.2 2-.6.6-.4 1-1 1.3-1.7s.5-1.5.5-2.5c0-.7-.2-1.3-.5-2-.4-.6-.9-1.1-1.6-1.5-.8-.4-1.5-.5-2.4-.5-.7 0-1.3 0-1.8.2s-1 .4-1.4.7-.7.6-1 1c-.2.4-.5.8-.5 1.2-.3.4-.3.8-.3 1.2 0 .6.1 1.2.4 1.7s.6.8 1.1 1c.1.1.2 0 .2-.2 0 0 0-.1.1-.3s.1-.2.1-.3 0-.3-.1-.4c-.2-.3-.5-.8-.5-1.3 0-.9.3-1.7 1-2.4S7 4 8.1 4c.9 0 1.6.2 2.1.7s.8 1.2.8 2c0 1-.2 1.9-.6 2.6s-1 1.2-1.6 1.2c-.4 0-.7-.1-.9-.4-.3-.3-.3-.6-.2-1 0-.2.1-.5.2-.9 0-.4.1-.7.2-.9.1-.3.1-.5.1-.7 0-.3-.1-.6-.2-.8-.2-.1-.5-.2-.8-.2-.4 0-.7.2-1 .5-.2.3-.3.8-.3 1.3 0 .4.1.8.2 1.1l-.9 3.8c-.1.4-.1 1-.1 1.6-1.3-.6-2.3-1.4-3-2.6S.9 8.9.9 7.5c0-1.3.3-2.4.9-3.5s1.5-1.9 2.5-2.5 2.3-1 3.6-1 2.4.3 3.5.9 1.9 1.5 2.7 2.6z"/>
+    </symbol>
+    <symbol viewBox="0 0 15.9 15" id="ico-tumblr"
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="currentColor" d="M11.6 12l.8 2.1c-.1.2-.5.4-1 .6s-1.2.3-1.6.3c-.7 0-1.3-.1-1.8-.2-.5-.2-1-.4-1.3-.7-.3-.3-.6-.6-.9-1s-.4-.7-.6-1.1c-.1-.4-.2-.7-.2-1.1V6.1H3.5V4.2c.5-.2.8-.4 1.2-.7s.6-.5.8-.8.4-.6.5-.9.3-.6.3-.9.1-.5.2-.8V0h2.4v3.8H12v2.3H8.9v4.7c0 .2 0 .3.1.5 0 .2.1.3.2.5.1.1.2.2.4.3s.5.1.8.1c.5 0 1-.1 1.2-.2z"/>
+    </symbol>
+    <symbol viewBox="0 0 15.9 15" id="ico-twitter"
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="currentColor" d="M14.9 3.3c-.4.6-.9 1-1.4 1.4v.4c0 .7-.1 1.5-.3 2.2s-.6 1.5-1 2.1c-.5.7-1 1.3-1.6 1.8s-1.4.9-2.3 1.3c-1 .3-2 .5-3 .5-1.6 0-3.1-.4-4.4-1.2h.7c1.3 0 2.5-.4 3.6-1.2-.7 0-1.2-.2-1.7-.6s-.8-.8-1-1.4H3c.3 0 .5 0 .8-.1-.7-.1-1.2-.5-1.6-1s-.6-.9-.6-1.6c.4.2.7.3 1.2.3-.4-.2-.7-.6-1-1-.3-.4-.2-.8-.2-1.3s.1-1 .4-1.4c.7.9 1.6 1.5 2.6 2s2.1.8 3.3.9c0-.2-.1-.4-.1-.6 0-.8.3-1.4.8-2 .5-.5 1.2-.8 2-.8s1.5.3 2.1.9c.6-.1 1.3-.3 1.8-.7-.2.7-.6 1.2-1.3 1.5.6 0 1.1-.2 1.7-.4z"/>
+    </symbol>
+    <symbol viewBox="0 0 15.9 15" id="ico-youtube"
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="currentColor" d="M6.2 9.5l4.3-2.2-4.3-2.2v4.4zM7.9 2h2.9c.9 0 1.6.1 2 .1h1.3c.1 0 .2 0 .3.1.1 0 .2.1.2.1s.2.1.3.2.2.1.3.2c0 0 .1.1.1.2.1.1.1.2.3.5.1.3.2.6.2.9 0 .4.1.8.1 1.2V8c0 .8 0 1.7-.2 2.5 0 .3-.1.6-.2.9s-.2.4-.3.5l-.1.1c-.1.1-.2.2-.3.2s-.2.1-.3.2c-.1 0-.2.1-.2.1-.1 0-.2.1-.3.1h-.5c-1.5.3-3.4.4-5.6.4-1.2 0-2.3 0-3.2-.1-.9 0-1.5 0-1.8-.1h-.7c-.2 0-.4-.1-.5-.1s-.3-.1-.5-.2-.4-.2-.5-.4c0 0-.1-.1-.1-.2-.1 0-.2-.1-.3-.4s-.2-.6-.2-.9c0-.4-.1-.8-.1-1.2V6.9c0-.8 0-1.7.2-2.5 0-.3.1-.6.2-.9.1-.3.1-.4.2-.5l.1-.1c.1-.2.2-.2.3-.3.1-.1.2-.1.3-.2.1 0 .2-.1.2-.1.1 0 .2-.1.3-.1h.6C3.8 2.1 5.7 2 7.9 2z"/>
+    </symbol>
+    <symbol viewBox="0 0 75 20" id="loreal-paris-logo"
+        xmlns="http://www.w3.org/2000/svg">
+        <defs>
+            <path id="aya" d="M0 0h75v20H0z"/>
+        </defs>
+        <g fill="none" fill-rule="evenodd">
+            <mask id="ayb" fill="#fff">
+                <use xlink:href="#aya"/>
+            </mask>
+            <path d="M9.784 11.481h-8.27V1.833H0v10.83h9.784v-1.182zM8.122 5.664l2.038-3.831H8.52L7 5.663h1.122zm10.124 6.569c-3.037 0-5.54-2.442-5.54-5.384 0-2.94 2.385-5.498 5.658-5.498a5.494 5.494 0 0 1 5.538 5.498c0 2.942-2.62 5.384-5.656 5.384zM18.298 0c-4.39 0-7.381 3.096-7.381 6.845 0 3.947 3.305 6.731 7.381 6.731 4.076 0 7.38-2.744 7.38-6.73 0-3.75-3.03-6.846-7.38-6.846zm15.957 6.84H29.2V3.115h5.23c1.204 0 1.882.563 2.126 1.276.16.49.057 1.134-.209 1.571-.437.725-1.267.878-2.093.878zm1.296 1.296c2.479-.663 2.72-2.51 2.709-3.17-.149-1.934-1.45-3.133-3.793-3.133h-6.822v10.83h1.556V8.121h4.44l3.267 4.542h1.96s-2.35-3.057-3.317-4.527zm19.663.369l2.593-5.175 2.626 5.175h-5.219zm1.539-6.672l-5.503 10.83h1.86l1.408-2.803h6.6l1.421 2.803h1.841l-5.508-10.83h-2.12zM75 11.48h-8.27V1.833h-1.514v10.83H75v-1.182zM48.635.084h-2.803l-1.31 1.472L48.634.084zm-.15 7.612V6.498h-6.022V3.012h8.018v-1.18h-9.679v10.831h9.68v-1.182h-8.02V7.696h6.023zM43.46 19.843h.776V16.75h-.776v3.092zm-.005-3.55h.776v-.777h-.776v.777zm5.932 1.243l-1.667-.284c-.341-.06-.691-.18-.691-.548 0-.656.837-.759 1.333-.759.659 0 1.407.211 1.447.88h.74c-.032-.476-.236-1.38-2.276-1.38-1.415 0-2.01.662-2.01 1.337 0 .754.863.952 1.245 1.018l1.196.206c.959.168 1.244.313 1.244.765 0 .62-.96.729-1.53.729-.747 0-1.609-.23-1.609-1.013h-.74c0 .405.097.766.593 1.097.26.175.684.416 1.765.416 1 0 2.285-.283 2.285-1.308 0-.686-.57-1.023-1.325-1.156zm-18.082.553l1.074-1.904h.019l.99 1.904h-2.083zm.607-2.548l-2.52 4.326h.933l.7-1.26h2.69l.662 1.26h.99l-2.428-4.326h-1.027zm5.734 2h1.627c.734 0 1.232-.193 1.232-.777 0-.549-.523-.724-1.198-.724h-1.661v1.5zm3.892 2.295h-.923l-1.235-1.756c-.015-.022-.045-.034-.076-.04h.04a.1.1 0 0 0-.04 0h-1.658v1.827h-.818V15.54h2.723c1.122 0 1.796.518 1.796 1.217 0 .498-.33 1.049-1.187 1.225l1.378 1.854zM27.101 17.54h-1.627v-1.5h1.66c.675 0 1.198.174 1.198.723 0 .584-.498.777-1.231.777zm.278-2h-2.724v4.326h.819v-1.826h1.905c1.316 0 1.796-.68 1.796-1.283 0-.7-.674-1.217-1.796-1.217z" fill="#fff" mask="url(#ayb)"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 8 8" id="open-new-window"
+        xmlns="http://www.w3.org/2000/svg">
+        <g fill-rule="nonzero" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round">
+            <path d="M1 1.035V7h5.978M4.01 3.987l2.962-2.93M7 2.965V1H5"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 27 27" id="plus"
+        xmlns="http://www.w3.org/2000/svg">
+        <g stroke-width="4" fill="none" fill-rule="evenodd" stroke-linecap="round">
+            <path d="M24.814 13.5H2.186M13.5 2.186v22.628"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 22 15" fill="none" id="schedule"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="M16.102 9.583v1.836c0 1.091-.735 1.984-1.633 1.984H2.633C1.735 13.403 1 12.51 1 11.42V3.48c0-1.092.735-1.985 1.633-1.985h11.836c.898 0 1.633.893 1.633 1.985v1.885L21 1v12.9l-4.898-4.317zM3.45 5.465h4.897" stroke="#fff" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol viewBox="0 0 20 20" id="search"
+        xmlns="http://www.w3.org/2000/svg">
+        <g stroke-width="2" stroke-linecap="round" stroke-linejoin="bevel" fill="none" fill-rule="evenodd">
+            <path d="M13.292 3.937a6.615 6.615 0 1 1-9.355 9.355 6.615 6.615 0 0 1 9.355-9.355zM15.29 15.388l3.93 3.93"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 13 18" id="trash-closed"
+        xmlns="http://www.w3.org/2000/svg">
+        <g fill-rule="nonzero" fill="none">
+            <path d="M2.913 16l-.818-9h8.81l-.818 9H2.913z" stroke="#000" stroke-width="2"/>
+            <path d="M1 3h11a1 1 0 0 1 1 1v1H0V4a1 1 0 0 1 1-1zM6 0h1a1 1 0 0 1 1 1v1H5V1a1 1 0 0 1 1-1z" fill="#000"/>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 14 20" id="trash-opened"
+        xmlns="http://www.w3.org/2000/svg">
+        <g fill-rule="nonzero" fill="none">
+            <path d="M2.913 19l-.818-9h8.81l-.818 9H2.913z" stroke="#FFF" stroke-width="2"/>
+            <g fill="#FFF">
+                <path d="M2.058 3.56l10.625 2.846a1 1 0 0 1 .707 1.225l-.259.966L.574 5.232l.26-.965a1 1 0 0 1 1.224-.708zM7.664 1.956l.966.259a1 1 0 0 1 .707 1.224l-.259.966-2.897-.776.258-.966a1 1 0 0 1 1.225-.707z"/>
+            </g>
+        </g>
+    </symbol>
+    <symbol viewBox="0 0 40 40" id="water-footprint"
+        xmlns="http://www.w3.org/2000/svg">
+        <g fill="none" fill-rule="evenodd">
+            <circle stroke="#969696" fill="#FFF" cx="20" cy="20" r="19.5"/>
+            <path d="M20.412 7.7a.542.542 0 0 0-.838 0c-1.78 2.346-8.434 11.516-8.434 15.836.025 4.958 3.982 8.964 8.854 8.964 4.872 0 8.83-4.006 8.854-8.964 0-4.32-6.653-13.49-8.435-15.836m2.32 21.622a.774.774 0 0 1-.337.051.89.89 0 0 1-.787-.462c-.153-.396.04-.834.45-1.025 3.319-1.231 3.036-4.924 2.98-4.976a.75.75 0 0 1 .371-.695.915.915 0 0 1 .847-.052c.272.123.45.369.47.645.224 1.641-.45 5.18-3.994 6.514" fill="#969696" fill-rule="nonzero"/>
+        </g>
+    </symbol>
+</svg>
+    </div>
+
+
+    <div id="main-container">
+        
+
+<ul><li> <a href="#"> <span class="is-sr-only">Loreal</span> </a> </li></ul>
+<a href="#main-content" class="goToContent" aria-hidden="false">Go to content!</a>
+<header class="oap-header oap-header--signed-elements" role="banner">
+    <div class="oap-header__main">
+        <div v-megamenu:barscroll class="oap-header__wrapper"  v-navigation-height>
+            
+
+
+            
+
+<div class="oap-header__signed-elements">
+    <div class="oap-signed-elements">
+            <a href="/my-account/login"
+               title="Log In"
+               class="oap-link"
+               aria-label="Sign Up">
+                Log In
+            </a>
+            <a href="/my-account/registration"
+               title="Sign Up"
+               class="oap-link"
+               aria-label="Sign Up">
+                Sign Up
+            </a>
+
+
+</div>
+</div>
+
+
+
+            <div class="oap-header__utilities">
+                
+<div class="oap-header__logo-wrapper">
+                <a class="oap-header__logo-link" href="/">
+                    <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/navigationext/loreal-paris-black-logo.svg?h=372&amp;w=990&amp;la=en-US&amp;hash=F51FCBD9EB0E7BA391C7A313BBE64400E30CCB3E" class="oap-header__logo-image" width="990" height="372" alt="Skincare, cosmetics, hair care, hair color, hair styling and men&#39;s line: L&#39;Oreal Paris" />
+                </a>
+</div>
+
+
+                    <div class="oap-search"
+         v-search:limit="3">
+        <input class="oap-search__checkbox" aria-labelledby="oap-search-input"
+               type="checkbox"
+               id="oap-search-icon"
+               tabindex="-1">
+        <label class="oap-search__label -open"
+               for="oap-search-icon">
+			    <span class="is-sr-only">search</span>
+			   
+            <svg class="icon" >
+                <use xmlns:xlink="http://www.w3.org/1999/xlink"
+                     xlink:href="#search">
+                </use>
+            </svg>
+        </label>
+        <label class="oap-search__label -close"
+               for="oap-search-icon">
+			    <span class="is-sr-only">close</span>
+            <svg class="icon">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink"
+                     xlink:href="#close">
+                </use>
+            </svg>
+        </label>
+        <form class="oap-search__form" action="/search-page"
+              method="get">
+            <input class="oap-search__input"
+                   type="text" 
+				   id="oap-search-input"
+                   required
+                   autocomplete="off"
+                   pattern=".{3,}"
+                   title="This tooltip is here to be translated"
+                   name="q"
+                   placeholder="Search here...">
+            <button class="oap-search__button"
+                    type="submit"
+                    title="Search">
+                <svg class="icon">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink"
+                         xlink:href="#search">
+                    </use>
+                </svg>
+            </button>
+        </form>
+        <div class="oap-click-overlay"></div>
+    </div>
+
+                
+<nav class="navigation" role="navigation" aria-label="Main menu">
+    <overlay></overlay>
+    <button class="navigation__burger" aria-expanded="false" v-megamenu:burger>
+        <span class="navigation__burgerToggle">
+            <span class="navigation__burgerIcon"></span>
+        </span>
+        <span class="isSrOnly">Menu</span>
+    </button>
+    <ul class="navigationList" >
+            <li data-tag-wrapper class="navigationList__item" >
+                    <a href="/makeup" aria-expanded="false" class="navigationList__trigger" role="button" v-megamenu:togglepanel="{index:0}">
+                        Makeup
+                        <span class="navigationList__arrow"></span>
+                    </a>
+                    <div class="navigation__panelWrapper" v-megamenu:panel="{index:0}">
+                        <div class="navigation__animationWrapper">
+                            <div class="navigation__backWrapper">
+                                <button class="navigation__backLabel" v-megamenu:backreturn="{index:0}" >
+                                    <span class="navigationList__arrow"></span>
+                                    Makeup
+                                </button>
+                            </div>
+
+
+                                    <div class="navigation__panelContentWrapper -noSwitcher">
+
+                                    <!-- #region Products Left section -->
+                                        <div class="navigation__productListWrapper ">
+
+                                                    <collapsable tagname="section" identifier="unique-id-0ab686df-1413-41ac-9fd0-2ca429d8647e" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-0ab686df-1413-41ac-9fd0-2ca429d8647e">EYE MAKEUP</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/eye/eye-shadow" data-tag-category="main menu L4" data-tag-label="makeup::products::eye makeup::eye shadow" v-tag:useractionevent.dom="" data-tag-action="select" >Eye Shadow</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/eye/eyebrow" data-tag-category="main menu L4" data-tag-label="makeup::products::eye makeup::eyebrow makeup" v-tag:useractionevent.dom="" data-tag-action="select" >Eyebrow Makeup</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/eye/eyeliner" data-tag-category="main menu L4" data-tag-label="makeup::products::eye makeup::eyeliner" v-tag:useractionevent.dom="" data-tag-action="select" >Eyeliner</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/eye/mascara" data-tag-category="main menu L4" data-tag-label="makeup::products::eye makeup::mascara" v-tag:useractionevent.dom="" data-tag-action="select" >Mascara</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                <a href="/makeup/eye" data-tag-category="main menu L3" data-tag-label="makeup::products::all eye products" v-tag:useractionevent.dom="" data-tag-action="select" >ALL EYE PRODUCTS</a>
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-61064756-80e7-4fc8-bd40-f3629e318310" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-61064756-80e7-4fc8-bd40-f3629e318310">LIP COLOR</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/lip-color/lip-gloss" data-tag-category="main menu L4" data-tag-label="makeup::products::lip color::lip gloss" v-tag:useractionevent.dom="" data-tag-action="select" >Lip Gloss</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/lip-color/lip-liner" data-tag-category="main menu L4" data-tag-label="makeup::products::lip color::lip liner" v-tag:useractionevent.dom="" data-tag-action="select" >Lip Liner</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/lip-color/lipstick" data-tag-category="main menu L4" data-tag-label="makeup::products::lip color::lipstick" v-tag:useractionevent.dom="" data-tag-action="select" >Lipstick</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                <a href="/makeup/lip-color" data-tag-category="main menu L3" data-tag-label="makeup::products::all lip products" v-tag:useractionevent.dom="" data-tag-action="select" >ALL LIP PRODUCTS</a>
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-998d37c1-b76b-4a82-bc58-1fd313cd51dc" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-998d37c1-b76b-4a82-bc58-1fd313cd51dc">FACE MAKEUP</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/bb-cream" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::bb cream" v-tag:useractionevent.dom="" data-tag-action="select" >BB Cream</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/blush" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::blush" v-tag:useractionevent.dom="" data-tag-action="select" >Blush</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/concealer" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::concealer" v-tag:useractionevent.dom="" data-tag-action="select" >Concealer</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/face-powder" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::face powder" v-tag:useractionevent.dom="" data-tag-action="select" >Face Powder</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/foundation-makeup" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::foundation makeup" v-tag:useractionevent.dom="" data-tag-action="select" >Foundation Makeup</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/highlighters" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::highlighters" v-tag:useractionevent.dom="" data-tag-action="select" >Highlighters</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/makeup-primer" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::makeup primer" v-tag:useractionevent.dom="" data-tag-action="select" >Makeup Primer</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/makeup-blenders" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::makeup blenders" v-tag:useractionevent.dom="" data-tag-action="select" >Makeup Blenders</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/glow-at-home" data-tag-category="main menu L4" data-tag-label="makeup::products::face makeup::glow at home" v-tag:useractionevent.dom="" data-tag-action="select" >Glow at Home</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                <a href="/makeup/face" data-tag-category="main menu L3" data-tag-label="makeup::products::all face products" v-tag:useractionevent.dom="" data-tag-action="select" >ALL FACE PRODUCTS</a>
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                        </div>
+                                    <!-- #endregion -->
+                                    <!-- #region Products Right section -->
+                                        <div class="navigation__needsListWrapper">
+
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-how-can-we-help-section-0f867291-7914-4653-a2ea-ddf19e09c33e">
+                                                        <p id="main-menu-how-can-we-help-section-0f867291-7914-4653-a2ea-ddf19e09c33e">Tools &amp; Consultations</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/virtual-try-on-makeup" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::tools &amp; consultations::makeup try on" v-tag:useractionevent.dom="" data-tag-action="select" >Makeup Try-On</a>
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-our-makeup-brands-section-a67b864a-4ad6-4763-a8c0-2c3661c80384">
+                                                        <p id="main-menu-our-makeup-brands-section-a67b864a-4ad6-4763-a8c0-2c3661c80384">Our Makeup Brands</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/brands/colour-riche" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::colour riche" v-tag:useractionevent.dom="" data-tag-action="select" >Colour Riche</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/age-perfect-makeup" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::age perfect makeup" v-tag:useractionevent.dom="" data-tag-action="select" >Age Perfect Makeup</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/bambi-eye" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::bambi eye" v-tag:useractionevent.dom="" data-tag-action="select" >Bambi Eye</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/brilliant-eyes" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::brilliant eyes" v-tag:useractionevent.dom="" data-tag-action="select" >Brilliant Eyes</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/matte-signature" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::matte signature" v-tag:useractionevent.dom="" data-tag-action="select" >Matte Signature</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/infallible" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::infallible" v-tag:useractionevent.dom="" data-tag-action="select" >Infallible</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/lash-serum-solution" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::lash serum solution" v-tag:useractionevent.dom="" data-tag-action="select" >Lash Serum Solution</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/true-match" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::true match" v-tag:useractionevent.dom="" data-tag-action="select" >True Match</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/true-match-lumi" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::true match lumi" v-tag:useractionevent.dom="" data-tag-action="select" >True Match Lumi</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/unbelieva-brow" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::unbelieva-brow" v-tag:useractionevent.dom="" data-tag-action="select" >Unbelieva-Brow</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/unlimited" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::unlimited" v-tag:useractionevent.dom="" data-tag-action="select" >Unlimited</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/visible-lift" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::visible lift" v-tag:useractionevent.dom="" data-tag-action="select" >Visible Lift</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/voluminous" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="makeup::products::our makeup brands::voluminous" v-tag:useractionevent.dom="" data-tag-action="select" >Voluminous</a>
+                                                                </li>
+                                                        </ul>
+                                                        <a href="/makeup" data-tag-action="select" data-tag-wrapper="" data-tag-category="main menu L3" class="listItemAlt" data-tag-label="makeup::products::view all makeup products" v-tag:useractionevent.dom="" >VIEW ALL MAKEUP PRODUCTS</a>
+                                                    </section>
+                                        </div>
+                                    <!-- #endregion -->
+                            
+
+                    </div>
+                        </div>
+                            <div class="linkToService">
+                                <a aria-label="Makeup Try-On  | Try any makeup, before buying (new window)"
+                                   
+                                   data-tag-wrapper
+                                   data-tag-category="main menu L1"
+                                   data-tag-action="select"
+                                   data-tag-label="makeup try-on"
+                                   v-tag:useractionevent.dom
+                                   href="/virtual-try-on-makeup">
+                                        <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/services-black/virtual_try_on_makeup_black_icon.png" alt="Virtual Try On Makeup Black Icon">
+                                    <strong>Makeup Try-On </strong>
+                                    <span>| Try any makeup, before buying</span>
+                                </a>
+                            </div>
+
+                        </div>
+            </li>
+            <li data-tag-wrapper class="navigationList__item" >
+                    <a href="/skin-care" aria-expanded="false" class="navigationList__trigger" role="button" v-megamenu:togglepanel="{index:1}">
+                        Skin Care
+                        <span class="navigationList__arrow"></span>
+                    </a>
+                    <div class="navigation__panelWrapper" v-megamenu:panel="{index:1}">
+                        <div class="navigation__animationWrapper">
+                            <div class="navigation__backWrapper">
+                                <button class="navigation__backLabel" v-megamenu:backreturn="{index:1}" >
+                                    <span class="navigationList__arrow"></span>
+                                    Skin Care
+                                </button>
+                            </div>
+
+
+                                    <div class="navigation__panelContentWrapper -noSwitcher">
+
+                                    <!-- #region Products Left section -->
+                                        <div class="navigation__productListWrapper ">
+
+                                                    <collapsable tagname="section" identifier="unique-id-a6728cd0-fe01-47e1-b6d4-0541479a1ad7" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-a6728cd0-fe01-47e1-b6d4-0541479a1ad7">SKIN CARE PRODUCTS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/eye-creams" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::eye cream" v-tag:useractionevent.dom="" data-tag-action="select" >Eye Cream</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/face-mask" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::face mask" v-tag:useractionevent.dom="" data-tag-action="select" >Face Mask</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/face-scrub" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::face scrub" v-tag:useractionevent.dom="" data-tag-action="select" >Face Scrub</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/face-serum" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::face serum" v-tag:useractionevent.dom="" data-tag-action="select" >Face Serum</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/facial-cleansers" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::facial cleanser" v-tag:useractionevent.dom="" data-tag-action="select" >Facial Cleanser</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/facial-moisturizers" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::face moisturizer" v-tag:useractionevent.dom="" data-tag-action="select" >Face Moisturizer</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/night-creams" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::night cream" v-tag:useractionevent.dom="" data-tag-action="select" >Night Cream</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/self-tanning" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::self-tanner" v-tag:useractionevent.dom="" data-tag-action="select" >Self-Tanner</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/sunscreen-for-face" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::sunscreen for face" v-tag:useractionevent.dom="" data-tag-action="select" >Sunscreen for Face</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/makeup-removers" data-tag-category="main menu L4" data-tag-label="skin care::products::skin care products::makeup remover" v-tag:useractionevent.dom="" data-tag-action="select" >Makeup Remover</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                <a href="/skin-care" data-tag-category="main menu L3" data-tag-label="skin care::products::all skin products" v-tag:useractionevent.dom="" data-tag-action="select" >ALL SKIN PRODUCTS</a>
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-f782aa78-7b55-4f27-8ad5-5c9e6b458ace" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-f782aa78-7b55-4f27-8ad5-5c9e6b458ace">SKIN CONCERNS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/anti-aging" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::anti-aging" v-tag:useractionevent.dom="" data-tag-action="select" >Anti-Aging</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/dark-circles-under-eyes" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::dark circles" v-tag:useractionevent.dom="" data-tag-action="select" >Dark Circles</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/dark-spots" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::dark spots" v-tag:useractionevent.dom="" data-tag-action="select" >Dark Spots</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/dry-skin" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::dry skin" v-tag:useractionevent.dom="" data-tag-action="select" >Dry Skin</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/fine-lines-wrinkles" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::fine lines &amp; wrinkles" v-tag:useractionevent.dom="" data-tag-action="select" >Fine Lines &amp; Wrinkles</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/fragrance-free" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::fragrance free" v-tag:useractionevent.dom="" data-tag-action="select" >Fragrance Free</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/oily-skin" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::oily skin" v-tag:useractionevent.dom="" data-tag-action="select" >Oily Skin</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/skin-care/sagging-skin" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::sagging  skin" v-tag:useractionevent.dom="" data-tag-action="select" >Sagging  Skin</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/makeup/face/glow-at-home" data-tag-category="main menu L4" data-tag-label="skin care::products::skin concerns::glow at home" v-tag:useractionevent.dom="" data-tag-action="select" >Glow at Home</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-3b3053a7-8163-47c5-9d20-27efe873ef58" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-3b3053a7-8163-47c5-9d20-27efe873ef58">INGREDIENTS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/pure-retinol" data-tag-category="main menu L4" data-tag-label="skin care::products::ingredients::pure retinol serum" v-tag:useractionevent.dom="" data-tag-action="select" >Pure Retinol Serum</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/glycolic-acid" data-tag-category="main menu L4" data-tag-label="skin care::products::ingredients::glycolic serum" v-tag:useractionevent.dom="" data-tag-action="select" >Glycolic Serum</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hyaluronic-acid-serum" data-tag-category="main menu L4" data-tag-label="skin care::products::ingredients::hyaluronic acid serum" v-tag:useractionevent.dom="" data-tag-action="select" >Hyaluronic Acid Serum</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/vitamin-c" data-tag-category="main menu L4" data-tag-label="skin care::products::ingredients::vitamin c" v-tag:useractionevent.dom="" data-tag-action="select" >Vitamin C</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                <a href="/ingredient-library" data-tag-category="main menu L3" data-tag-label="skin care::products::ingredients" v-tag:useractionevent.dom="" data-tag-action="select" >INGREDIENTS</a>
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                        </div>
+                                    <!-- #endregion -->
+                                    <!-- #region Products Right section -->
+                                        <div class="navigation__needsListWrapper">
+
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-how-can-we-help-section-4fdb31a6-d1d3-4b62-bdae-efafb126ffe7">
+                                                        <p id="main-menu-how-can-we-help-section-4fdb31a6-d1d3-4b62-bdae-efafb126ffe7">Tools &amp; Consultations</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/ingredient-library" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::tools &amp; consultations::ingredient library" v-tag:useractionevent.dom="" data-tag-action="select" >Ingredient Library</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/skin-genius-landing-page" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::tools &amp; consultations::skin genius" v-tag:useractionevent.dom="" data-tag-action="select" >Skin Genius</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/skin-care-hub" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::tools &amp; consultations::skin care hub" v-tag:useractionevent.dom="" data-tag-action="select" >Skin Care Hub</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/the-other-side-of-loreal" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::tools &amp; consultations::the other side" v-tag:useractionevent.dom="" data-tag-action="select" >The Other Side</a>
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-our-makeup-brands-section-b74fd4a1-b4d5-4fba-ac29-865cf240e480">
+                                                        <p id="main-menu-our-makeup-brands-section-b74fd4a1-b4d5-4fba-ac29-865cf240e480">Our Skin Care Brands</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/brands/age-perfect-skin-care" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::age perfect skin care" v-tag:useractionevent.dom="" data-tag-action="select" >Age Perfect Skin Care</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/hydra-genius" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::hydra genius" v-tag:useractionevent.dom="" data-tag-action="select" >Hydra Genius</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/men-expert" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::men expert" v-tag:useractionevent.dom="" data-tag-action="select" >Men Expert</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/micellar-cleansing-water" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::micellar cleansing water" v-tag:useractionevent.dom="" data-tag-action="select" >Micellar Cleansing Water</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/pure-clay" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::pure-clay" v-tag:useractionevent.dom="" data-tag-action="select" >Pure-Clay</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/pure-sugar" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::pure-sugar" v-tag:useractionevent.dom="" data-tag-action="select" >Pure-Sugar</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/revitalift" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::revitalift" v-tag:useractionevent.dom="" data-tag-action="select" >Revitalift</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/revitalift-dermintensives" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::revitalift derm intensives" v-tag:useractionevent.dom="" data-tag-action="select" >Revitalift Derm Intensives</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/sublime-bronze" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::sublime bronze" v-tag:useractionevent.dom="" data-tag-action="select" >Sublime Bronze</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/wrinkle-expert" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="skin care::products::our skin care brands::wrinkle expert" v-tag:useractionevent.dom="" data-tag-action="select" >Wrinkle Expert</a>
+                                                                </li>
+                                                        </ul>
+                                                        <a href="/skin-care" data-tag-action="select" data-tag-wrapper="" data-tag-category="main menu L3" class="listItemAlt" data-tag-label="skin care::products::view all skincare products" v-tag:useractionevent.dom="" >VIEW ALL SKINCARE PRODUCTS</a>
+                                                    </section>
+                                        </div>
+                                    <!-- #endregion -->
+                            
+
+                    </div>
+                        </div>
+                            <div class="linkToService">
+                                <a aria-label="Skin Genius  | Analyze your skin like an expert (new window)"
+                                   
+                                   data-tag-wrapper
+                                   data-tag-category="main menu L1"
+                                   data-tag-action="select"
+                                   data-tag-label="skin genius"
+                                   v-tag:useractionevent.dom
+                                   href="/skin-genius-landing-page">
+                                        <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/services-black/virtual_try_on_makeup_black_icon.png" alt="Virtual Try On Makeup Black Icon">
+                                    <strong>Skin Genius</strong>
+                                    <span> | Analyze your skin like an expert</span>
+                                </a>
+                            </div>
+
+                        </div>
+            </li>
+            <li data-tag-wrapper class="navigationList__item" >
+                    <a href="/hair-color" aria-expanded="false" class="navigationList__trigger" role="button" v-megamenu:togglepanel="{index:2}">
+                        Hair Color
+                        <span class="navigationList__arrow"></span>
+                    </a>
+                    <div class="navigation__panelWrapper" v-megamenu:panel="{index:2}">
+                        <div class="navigation__animationWrapper">
+                            <div class="navigation__backWrapper">
+                                <button class="navigation__backLabel" v-megamenu:backreturn="{index:2}" >
+                                    <span class="navigationList__arrow"></span>
+                                    Hair Color
+                                </button>
+                            </div>
+
+
+                                    <div class="navigation__panelContentWrapper -noSwitcher">
+
+                                    <!-- #region Products Left section -->
+                                        <div class="navigation__productListWrapper ">
+
+                                                    <collapsable tagname="section" identifier="unique-id-ba1317a7-9fcd-49d2-a11f-2c376d3187ad" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-ba1317a7-9fcd-49d2-a11f-2c376d3187ad">HAIR COLOR PRODUCTS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/permanent" data-tag-category="main menu L4" data-tag-label="hair color::products::hair color products::permanent hair color" v-tag:useractionevent.dom="" data-tag-action="select" >Permanent Hair Color</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/semi-permanent" data-tag-category="main menu L4" data-tag-label="hair color::products::hair color products::semi-permanent" v-tag:useractionevent.dom="" data-tag-action="select" >Semi-Permanent</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/root-touch-up" data-tag-category="main menu L4" data-tag-label="hair color::products::hair color products::root touch up" v-tag:useractionevent.dom="" data-tag-action="select" >Root Touch Up</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/ombre" data-tag-category="main menu L4" data-tag-label="hair color::products::hair color products::ombre hair color" v-tag:useractionevent.dom="" data-tag-action="select" >Ombre Hair Color</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/hair-color-bleaches" data-tag-category="main menu L4" data-tag-label="hair color::products::hair color products::hair color bleaches" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Color Bleaches</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/hair-color-removers-faders" data-tag-category="main menu L4" data-tag-label="hair color::products::hair color products::hair color removers/faders" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Color Removers/Faders</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/hair-highlights" data-tag-category="main menu L4" data-tag-label="hair color::products::hair color products::hair highlights" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Highlights</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/le-color-gloss" data-tag-category="main menu L4" data-tag-label="hair color::products::hair color products::hair gloss" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Gloss</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                <a href="/hair-color" data-tag-category="main menu L3" data-tag-label="hair color::products::all hair color products" v-tag:useractionevent.dom="" data-tag-action="select" >ALL HAIR COLOR PRODUCTS</a>
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-2b783076-1ca5-4a7b-9dd1-28f39fe78f6a" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-2b783076-1ca5-4a7b-9dd1-28f39fe78f6a">ALL HAIR COLORS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/brown-brunette" data-tag-category="main menu L4" data-tag-label="hair color::products::all hair colors::brown/brunette" v-tag:useractionevent.dom="" data-tag-action="select" >Brown/Brunette</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/blonde" data-tag-category="main menu L4" data-tag-label="hair color::products::all hair colors::blonde" v-tag:useractionevent.dom="" data-tag-action="select" >Blonde</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/red" data-tag-category="main menu L4" data-tag-label="hair color::products::all hair colors::red" v-tag:useractionevent.dom="" data-tag-action="select" >Red</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/black" data-tag-category="main menu L4" data-tag-label="hair color::products::all hair colors::black" v-tag:useractionevent.dom="" data-tag-action="select" >Black</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/bold-color" data-tag-category="main menu L4" data-tag-label="hair color::products::all hair colors::bold" v-tag:useractionevent.dom="" data-tag-action="select" >Bold</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/platinum-blonde" data-tag-category="main menu L4" data-tag-label="hair color::products::all hair colors::platinum blonde" v-tag:useractionevent.dom="" data-tag-action="select" >Platinum Blonde</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-color/gray-coverage" data-tag-category="main menu L4" data-tag-label="hair color::products::all hair colors::gray hair coverage" v-tag:useractionevent.dom="" data-tag-action="select" >Gray Hair Coverage</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                        </div>
+                                    <!-- #endregion -->
+                                    <!-- #region Products Right section -->
+                                        <div class="navigation__needsListWrapper">
+
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-how-can-we-help-section-0847d386-0041-4f03-a6be-b06001f9f7ce">
+                                                        <p id="main-menu-how-can-we-help-section-0847d386-0041-4f03-a6be-b06001f9f7ce">Tools &amp; Consultations</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/hair-color-concierge" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products::tools &amp; consultations::hair color concierge" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Color Concierge</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/virtual-try-on-hair" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products::tools &amp; consultations::hair color try on" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Color Try-On</a>
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-our-makeup-brands-section-caffbb43-fa15-40d5-8185-4eac5f407d9e">
+                                                        <p id="main-menu-our-makeup-brands-section-caffbb43-fa15-40d5-8185-4eac5f407d9e"> Our Hair Color Brands</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/brands/colorista" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products:: our hair color brands::colorista" v-tag:useractionevent.dom="" data-tag-action="select" >Colorista</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/feria" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products:: our hair color brands::feria" v-tag:useractionevent.dom="" data-tag-action="select" >Feria</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/magic-root" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products:: our hair color brands::magic root" v-tag:useractionevent.dom="" data-tag-action="select" >Magic Root</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/superior-preference" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products:: our hair color brands::superior preference" v-tag:useractionevent.dom="" data-tag-action="select" >Superior Preference</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/excellence-creme" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products:: our hair color brands::excellence cr&#233;me" v-tag:useractionevent.dom="" data-tag-action="select" >Excellence Cr&#233;me</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/excellence-age-perfect" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products:: our hair color brands::excellence age perfect" v-tag:useractionevent.dom="" data-tag-action="select" >Excellence Age Perfect</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/hair-color/hair-gloss" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair color::products:: our hair color brands::le gloss" v-tag:useractionevent.dom="" data-tag-action="select" >Le Gloss</a>
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                        </div>
+                                    <!-- #endregion -->
+                            
+
+                    </div>
+                        </div>
+                            <div class="linkToService">
+                                <a aria-label="Hair Color Try-On | Try on any color before buying (new window)"
+                                   
+                                   data-tag-wrapper
+                                   data-tag-category="main menu L1"
+                                   data-tag-action="select"
+                                   data-tag-label="virtual try-on hair"
+                                   v-tag:useractionevent.dom
+                                   href="/virtual-try-on-hair">
+                                        <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/services-black/virtual_try_on_hair_black_icon.png" alt="Virtual Try On Hair Black Icon">
+                                    <strong>Hair Color Try-On |</strong>
+                                    <span>Try on any color before buying</span>
+                                </a>
+                            </div>
+
+                        </div>
+            </li>
+            <li data-tag-wrapper class="navigationList__item" >
+                    <a href="/hair-care" aria-expanded="false" class="navigationList__trigger" role="button" v-megamenu:togglepanel="{index:3}">
+                        Hair Care
+                        <span class="navigationList__arrow"></span>
+                    </a>
+                    <div class="navigation__panelWrapper" v-megamenu:panel="{index:3}">
+                        <div class="navigation__animationWrapper">
+                            <div class="navigation__backWrapper">
+                                <button class="navigation__backLabel" v-megamenu:backreturn="{index:3}" >
+                                    <span class="navigationList__arrow"></span>
+                                    Hair Care
+                                </button>
+                            </div>
+
+
+                                    <div class="navigation__panelContentWrapper -noSwitcher">
+
+                                    <!-- #region Products Left section -->
+                                        <div class="navigation__productListWrapper ">
+
+                                                    <collapsable tagname="section" identifier="unique-id-4745a362-285c-48b2-b22c-7dd9307eadae" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-4745a362-285c-48b2-b22c-7dd9307eadae">HAIR CARE PRODUCTS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/conditioner" data-tag-category="main menu L4" data-tag-label="hair care::products::hair care products::conditioner" v-tag:useractionevent.dom="" data-tag-action="select" >Conditioner</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/dry-shampoo" data-tag-category="main menu L4" data-tag-label="hair care::products::hair care products::dry shampoo" v-tag:useractionevent.dom="" data-tag-action="select" >Dry Shampoo</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/hair-mask" data-tag-category="main menu L4" data-tag-label="hair care::products::hair care products::hair mask" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Mask</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/hair-serum" data-tag-category="main menu L4" data-tag-label="hair care::products::hair care products::hair serum" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Serum</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/hair-treatments" data-tag-category="main menu L4" data-tag-label="hair care::products::hair care products::hair treatments" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Treatments</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/shampoo" data-tag-category="main menu L4" data-tag-label="hair care::products::hair care products::shampoo" v-tag:useractionevent.dom="" data-tag-action="select" >Shampoo</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/purple-shampoo" data-tag-category="main menu L4" data-tag-label="hair care::products::hair care products::purple shampoo" v-tag:useractionevent.dom="" data-tag-action="select" >Purple Shampoo</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/kit" data-tag-category="main menu L4" data-tag-label="hair care::products::hair care products::kit" v-tag:useractionevent.dom="" data-tag-action="select" >Kit</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                <a href="/hair-care" data-tag-category="main menu L3" data-tag-label="hair care::products::all hair care products" v-tag:useractionevent.dom="" data-tag-action="select" >ALL HAIR CARE PRODUCTS</a>
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-90170d6d-e6ad-4f30-a83a-3df4c4ce12e4" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-90170d6d-e6ad-4f30-a83a-3df4c4ce12e4">HAIR CONCERNS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/anti-dandruff-scalp-care" data-tag-category="main menu L4" data-tag-label="hair care::products::hair concerns::anti-dandruff/scalp care" v-tag:useractionevent.dom="" data-tag-action="select" >Anti-Dandruff/Scalp Care</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/blonde-hair-care" data-tag-category="main menu L4" data-tag-label="hair care::products::hair concerns::blonde hair care" v-tag:useractionevent.dom="" data-tag-action="select" >Blonde Hair Care</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/color-treated-hair" data-tag-category="main menu L4" data-tag-label="hair care::products::hair concerns::color treated hair" v-tag:useractionevent.dom="" data-tag-action="select" >Color Treated Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/hair-breakage-split-ends" data-tag-category="main menu L4" data-tag-label="hair care::products::hair concerns::hair breakage &amp; split ends" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Breakage &amp; Split Ends</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/oily-roots-dry-ends" data-tag-category="main menu L4" data-tag-label="hair care::products::hair concerns::oily roots/dry ends" v-tag:useractionevent.dom="" data-tag-action="select" >Oily Roots/Dry Ends</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/sulfate-free" data-tag-category="main menu L4" data-tag-label="hair care::products::hair concerns::sulfate free" v-tag:useractionevent.dom="" data-tag-action="select" >Sulfate Free</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-45e3b55a-6bf3-4375-b044-5b4120ce4a91" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-45e3b55a-6bf3-4375-b044-5b4120ce4a91">HAIR TYPE</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/curly-hair" data-tag-category="main menu L4" data-tag-label="hair care::products::hair type::curly hair" v-tag:useractionevent.dom="" data-tag-action="select" >Curly Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/damaged-hair" data-tag-category="main menu L4" data-tag-label="hair care::products::hair type::damaged hair" v-tag:useractionevent.dom="" data-tag-action="select" >Damaged Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/dry-hair" data-tag-category="main menu L4" data-tag-label="hair care::products::hair type::dry hair" v-tag:useractionevent.dom="" data-tag-action="select" >Dry Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/frizzy-hair" data-tag-category="main menu L4" data-tag-label="hair care::products::hair type::frizzy hair" v-tag:useractionevent.dom="" data-tag-action="select" >Frizzy Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-care/thin-fine-hair" data-tag-category="main menu L4" data-tag-label="hair care::products::hair type::thin or fine hair" v-tag:useractionevent.dom="" data-tag-action="select" >Thin or Fine Hair</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                        </div>
+                                    <!-- #endregion -->
+                                    <!-- #region Products Right section -->
+                                        <div class="navigation__needsListWrapper">
+
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-how-can-we-help-section-f5aadd3b-7e72-44bc-b3bf-6904e8439aea">
+                                                        <p id="main-menu-how-can-we-help-section-f5aadd3b-7e72-44bc-b3bf-6904e8439aea">Tools &amp; Consultations</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/beauty-magazine/hair-care" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair care::products::tools &amp; consultations::hair-care" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Care Magazine</a>
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-our-makeup-brands-section-56d8fd99-b06a-4c15-bff5-7fc5f073cae6">
+                                                        <p id="main-menu-our-makeup-brands-section-56d8fd99-b06a-4c15-bff5-7fc5f073cae6"> </p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-our-makeup-brands-section-ecf4881e-9801-46d8-9497-559c55c16a73">
+                                                        <p id="main-menu-our-makeup-brands-section-ecf4881e-9801-46d8-9497-559c55c16a73">Our Hair Care Brands</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/brands/ever" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair care::products::our hair care brands::ever" v-tag:useractionevent.dom="" data-tag-action="select" >Ever</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/elvive" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair care::products::our hair care brands::elvive" v-tag:useractionevent.dom="" data-tag-action="select" >Elvive</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/loreal-kids" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair care::products::our hair care brands::l&#39;or&#233;al kids" v-tag:useractionevent.dom="" data-tag-action="select" >L&#39;Or&#233;al Kids</a>
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                        </div>
+                                    <!-- #endregion -->
+                            
+
+                    </div>
+                        </div>
+
+                        </div>
+            </li>
+            <li data-tag-wrapper class="navigationList__item" >
+                    <a href="/hair-style" aria-expanded="false" class="navigationList__trigger" role="button" v-megamenu:togglepanel="{index:4}">
+                        Hair Style
+                        <span class="navigationList__arrow"></span>
+                    </a>
+                    <div class="navigation__panelWrapper" v-megamenu:panel="{index:4}">
+                        <div class="navigation__animationWrapper">
+                            <div class="navigation__backWrapper">
+                                <button class="navigation__backLabel" v-megamenu:backreturn="{index:4}" >
+                                    <span class="navigationList__arrow"></span>
+                                    Hair Style
+                                </button>
+                            </div>
+
+
+                                    <div class="navigation__panelContentWrapper -noSwitcher">
+
+                                    <!-- #region Products Left section -->
+                                        <div class="navigation__productListWrapper ">
+
+                                                    <collapsable tagname="section" identifier="unique-id-e4b2f252-1c81-494f-a64f-870768d641c7" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-e4b2f252-1c81-494f-a64f-870768d641c7">HAIR STYLE PRODUCTS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/hair-cream" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style products::hair cream" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Cream</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/hair-gel" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style products::hair gel" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Gel</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/hair-mousse" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style products::hair mousse" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Mousse</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/hair-pomade-paste" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style products::hair pormade &amp; paste" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Pormade &amp; Paste</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/hair-spray" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style products::hair spray" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Spray</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/heat-protectant" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style products::heat protectant" v-tag:useractionevent.dom="" data-tag-action="select" >Heat Protectant</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                <a href="/hair-style" data-tag-category="main menu L3" data-tag-label="hair style::products::all hair style products" v-tag:useractionevent.dom="" data-tag-action="select" >ALL HAIR STYLE PRODUCTS</a>
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-fe095fe0-06b8-4ca9-84c9-b78709b7c333" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-fe095fe0-06b8-4ca9-84c9-b78709b7c333">HAIR STYLE CONCERNS</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/blowouts" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style concerns::blowouts" v-tag:useractionevent.dom="" data-tag-action="select" >Blowouts</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/hair-straightening" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style concerns::hair straightening" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Straightening</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/hair-texturizing" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style concerns::hair texturing" v-tag:useractionevent.dom="" data-tag-action="select" >Hair Texturing</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/heat-free" data-tag-category="main menu L4" data-tag-label="hair style::products::hair style concerns::heat free" v-tag:useractionevent.dom="" data-tag-action="select" >Heat Free</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-00ff88d5-b150-46b6-81bf-d92cfd16e017" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-00ff88d5-b150-46b6-81bf-d92cfd16e017">HAIR TYPE</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/curly-hair" data-tag-category="main menu L4" data-tag-label="hair style::products::hair type::curly hair" v-tag:useractionevent.dom="" data-tag-action="select" >Curly Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/frizzy-hair" data-tag-category="main menu L4" data-tag-label="hair style::products::hair type::frizzy hair" v-tag:useractionevent.dom="" data-tag-action="select" >Frizzy Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/shiny-hair" data-tag-category="main menu L4" data-tag-label="hair style::products::hair type::shiny hair" v-tag:useractionevent.dom="" data-tag-action="select" >Shiny Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/thick-hair" data-tag-category="main menu L4" data-tag-label="hair style::products::hair type::thick hair" v-tag:useractionevent.dom="" data-tag-action="select" >Thick Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/thin-fine-hair" data-tag-category="main menu L4" data-tag-label="hair style::products::hair type::thin or fine hair" v-tag:useractionevent.dom="" data-tag-action="select" >Thin or Fine Hair</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/hair-style/wavy-hair" data-tag-category="main menu L4" data-tag-label="hair style::products::hair type::wavy hair" v-tag:useractionevent.dom="" data-tag-action="select" >Wavy Hair</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                        </div>
+                                    <!-- #endregion -->
+                                    <!-- #region Products Right section -->
+                                        <div class="navigation__needsListWrapper">
+
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-how-can-we-help-section-d92aa2f0-4b43-4fad-bcca-59a3be8d622f">
+                                                        <p id="main-menu-how-can-we-help-section-d92aa2f0-4b43-4fad-bcca-59a3be8d622f">Our Hair Style Brands</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/brands/advanced-hairstyle" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair style::products::our hair style brands::advanced hairstyle" v-tag:useractionevent.dom="" data-tag-action="select" >Advanced Hairstyle</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/elnett" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair style::products::our hair style brands::elnett" v-tag:useractionevent.dom="" data-tag-action="select" >Elnett</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/brands/studio-line" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="hair style::products::our hair style brands::studio line" v-tag:useractionevent.dom="" data-tag-action="select" >Studio Line</a>
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                        </div>
+                                    <!-- #endregion -->
+                            
+
+                    </div>
+                        </div>
+
+                        </div>
+            </li>
+            <li data-tag-wrapper class="navigationList__item" >
+<a href="/beauty-magazine" data-tag-category="main menu L1" v-tag:useractionevent.dom="" data-tag-label="beauty magazine" class="navigationList__trigger" data-tag-action="select" >Beauty Magazine</a>            </li>
+            <li data-tag-wrapper class="navigationList__item" >
+                    <a href="/" aria-expanded="false" class="navigationList__trigger" role="button" v-megamenu:togglepanel="{index:6}">
+                        Explore
+                        <span class="navigationList__arrow"></span>
+                    </a>
+                    <div class="navigation__panelWrapper" v-megamenu:panel="{index:6}">
+                        <div class="navigation__animationWrapper">
+                            <div class="navigation__backWrapper">
+                                <button class="navigation__backLabel" v-megamenu:backreturn="{index:6}" >
+                                    <span class="navigationList__arrow"></span>
+                                    Explore
+                                </button>
+                            </div>
+
+
+                                    <div class="navigation__panelContentWrapper -noSwitcher">
+
+                                    <!-- #region Products Left section -->
+                                        <div class="navigation__productListWrapper -fourColumns">
+
+                                                    <collapsable tagname="section" identifier="unique-id-1fce76ac-0884-40ba-a7a1-a38d0ba61c90" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-1fce76ac-0884-40ba-a7a1-a38d0ba61c90">About L&#39;Or&#233;al Paris</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/overview" data-tag-category="main menu L4" data-tag-label="explore::products::about l&#39;or&#233;al paris::our purpose" v-tag:useractionevent.dom="" data-tag-action="select" >Our Purpose</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/our-history" data-tag-category="main menu L4" data-tag-label="explore::products::about l&#39;or&#233;al paris::history" v-tag:useractionevent.dom="" data-tag-action="select" >History</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/our-brand-ambassadors" data-tag-category="main menu L4" data-tag-label="explore::products::about l&#39;or&#233;al paris::brand ambassadors" v-tag:useractionevent.dom="" data-tag-action="select" >Brand Ambassadors</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/because-youre-worth-it" data-tag-category="main menu L4" data-tag-label="explore::products::about l&#39;or&#233;al paris::because you&#39;re worth it" v-tag:useractionevent.dom="" data-tag-action="select" >Because You&#39;re Worth It</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-12505e96-84e5-48b3-ac7b-8ed8989088fb" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-12505e96-84e5-48b3-ac7b-8ed8989088fb">Our Commitments</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/our-sustainable-growth" data-tag-category="main menu L4" data-tag-label="explore::products::our commitments::sustainable growth" v-tag:useractionevent.dom="" data-tag-action="select" >Sustainable Growth</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/stand-up" data-tag-category="main menu L4" data-tag-label="explore::products::our commitments::stand up against street harassment" v-tag:useractionevent.dom="" data-tag-action="select" >Stand Up Against Street Harassment</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/corporate-responsibility-women-of-worth" data-tag-category="main menu L4" data-tag-label="explore::products::our commitments::women of worth" v-tag:useractionevent.dom="" data-tag-action="select" >Women of Worth</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/covid" data-tag-category="main menu L4" data-tag-label="explore::products::our commitments::l&#39;or&#233;al paris responds to covid-19" v-tag:useractionevent.dom="" data-tag-action="select" >L&#39;Or&#233;al Paris Responds to COVID-19</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-b17e8204-3afe-4bdc-b0cb-d974bc8072fe" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-b17e8204-3afe-4bdc-b0cb-d974bc8072fe">Our Science</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/the-research-behind-our-products" data-tag-category="main menu L4" data-tag-label="explore::products::our science::the research behind our products" v-tag:useractionevent.dom="" data-tag-action="select" >The Research behind our products</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/our-digital-experiences" data-tag-category="main menu L4" data-tag-label="explore::products::our science::our digital experiences" v-tag:useractionevent.dom="" data-tag-action="select" >Our Digital Experiences</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                                    <collapsable tagname="section" identifier="unique-id-4339ab64-1e40-48eb-b73e-6f4ddb3edeee" :force-mobile=false>
+                                                        <span slot="indicator" class="collapsable__indicator"></span>
+                                                        <span slot="title" class="collapsable__title" id="unique-id-4339ab64-1e40-48eb-b73e-6f4ddb3edeee">Our Initiatives</span>
+                                                        <ul slot="content" class="collapsable__content">
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/loreal-paris-x-cannes-film-festival" data-tag-category="main menu L4" data-tag-label="explore::products::our initiatives::cannes film festival" v-tag:useractionevent.dom="" data-tag-action="select" >Cannes Film Festival</a>
+                                                                </li>
+                                                                <li data-tag-wrapper>
+                                                                    <a href="/loreal-paris-x-paris-fashion-week" data-tag-category="main menu L4" data-tag-label="explore::products::our initiatives::paris fashion week" v-tag:useractionevent.dom="" data-tag-action="select" >Paris Fashion Week</a>
+                                                                </li>
+                                                            <li data-tag-wrapper class="collapsable__listItemAlt">
+                                                                
+                                                            </li>
+                                                        </ul>
+                                                    </collapsable>
+                                        </div>
+                                    <!-- #endregion -->
+                                    <!-- #region Products Right section -->
+                                        <div class="navigation__needsListWrapper">
+
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-how-can-we-help-section-e2607a3e-4a83-4d13-aa38-06a00a804487">
+                                                        <p id="main-menu-how-can-we-help-section-e2607a3e-4a83-4d13-aa38-06a00a804487">Discover</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/tools-and-consultations" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="explore::products::discover::tools and consultations" v-tag:useractionevent.dom="" data-tag-action="select" >Tools and Consultations</a>
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                                    <section data-tag-wrapper aria-labelledby="main-menu-our-makeup-brands-section-4a322177-36a0-4d61-a353-4fa209d638aa">
+                                                        <p id="main-menu-our-makeup-brands-section-4a322177-36a0-4d61-a353-4fa209d638aa">The Other Side of L&#39;Or&#233;al Paris</p>
+                                                        <ul data-tag-wrapper class="navigation__additionalListContent">
+                                                                <li>
+                                                                    <a href="/ingredient-library" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="explore::products::the other side of l&#39;or&#233;al paris::ingredient-library" v-tag:useractionevent.dom="" data-tag-action="select" >Our Ingredients</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/our-ethics" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="explore::products::the other side of l&#39;or&#233;al paris::our ethics" v-tag:useractionevent.dom="" data-tag-action="select" >Our Ethics</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/our-efficacy" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="explore::products::the other side of l&#39;or&#233;al paris::our efficacy" v-tag:useractionevent.dom="" data-tag-action="select" >Our Products&#39; Efficacy</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/our-safety" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="explore::products::the other side of l&#39;or&#233;al paris::our safety" v-tag:useractionevent.dom="" data-tag-action="select" >Our Products’ Safety</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/because-our-planet-is-worth-it" data-tag-category="main menu L4" data-tag-wrapper="" data-tag-label="explore::products::the other side of l&#39;or&#233;al paris::because our planet is worth it" v-tag:useractionevent.dom="" data-tag-action="select" >L&#39;Oreal for the Future</a>
+                                                                </li>
+                                                        </ul>
+                                                        
+                                                    </section>
+                                        </div>
+                                    <!-- #endregion -->
+                            
+
+                    </div>
+                        </div>
+
+                        </div>
+            </li>
+            <li data-tag-wrapper class="navigationList__item" >
+<a href="/women-of-worth" data-tag-category="main menu L1" v-tag:useractionevent.dom="" data-tag-label="women of worth" class="navigationList__trigger" data-tag-action="select" >Women Of Worth</a>            </li>
+            <li data-tag-wrapper class="navigationList__item" >
+            </li>
+        <li class="navigationList__item bottom-items">
+            
+
+<div class="oap-header__signed-elements">
+    <div class="oap-signed-elements">
+            <a href="/my-account/login"
+               title="Log In"
+               class="oap-link"
+               aria-label="Sign Up">
+                Log In
+            </a>
+            <a href="/my-account/registration"
+               title="Sign Up"
+               class="oap-link"
+               aria-label="Sign Up">
+                Sign Up
+            </a>
+
+
+</div>
+</div>
+
+
+
+        </li>
+    </ul>
+    <div class="navigationBar"></div>
+</nav>
+
+
+            </div>
+        </div>
+    </div>
+    
+
+
+
+</header>
+
+
+
+        
+        <main role="main" id="main">
+            <a id="main-content" tabindex="-1"></a>
+            <div id="content">
+                
+
+
+<div class="articleWrapper">
+    
+
+
+<div class="articleHeader">
+                    <div class="articleHeader__background" role="img" aria-label="Page Not Found Hero"
+                         v-animate-on-inview="{class: 'animateScaleOut', delay: 10}"
+                         v-animate-on-scroll="{class: 'animateOverlay'}"
+                         v-background="{
+                                                '0': '/-/media/project/loreal/brand-sites/oap/shared/baseline/defaults/error-pages/page-not-found-hero.jpg?cx=0.51&cy=0.14&cw=600&ch=600&hash=6A8C14633861099B650DEC1E60F8E36C16B881BF',
+                                                '360': '/-/media/project/loreal/brand-sites/oap/shared/baseline/defaults/error-pages/page-not-found-hero.jpg?cx=0.51&cy=0.14&cw=900&ch=900&hash=3735C5ABC598022917E54C93E3F97B1557CF05BC',
+                                                '720': '/-/media/project/loreal/brand-sites/oap/shared/baseline/defaults/error-pages/page-not-found-hero.jpg?cx=0.51&cy=0.14&cw=2000&ch=600&hash=2BC1D2BAA7D9E19356BCC205E368746AF6A8A676'
+                                               }">
+                    </div>
+        <article class="articleHeader__information">
+            <div class="articleHeader__content articleHeader__column" data-tag-wrapper>
+                <h1 class="articleHeader__heading heading1" id="articleHeader">
+                    <span>404 Not Found Page</span>
+                </h1>
+                <p class="articleHeader__description">We could't find the page you're looking for. The link you clicked may be broken or the page have been removed.</p>
+            </div>
+        </article>
+
+</div>
+
+
+
+
+    
+<div class="contentPush__wrapper" id="content-push-59804136-5c99-432c-ad5a-c8ee0edbb3f7">
+    <h2 class="contentPush__title">Online Tools & Services</h2>
+                <ul class="contentPush__row -four">
+                        <li class="contentPush__item" v-clickextension="'div'"
+                            v-background="{
+                                      '0': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-skin-genius-1.jpg?cx=0.5&cy=0.44&cw=315&ch=395&hash=017D1BF19334805C2DA2AB6007C22B3680B4330B',
+                                    '376': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-skin-genius-1.jpg?cx=0.5&cy=0.44&cw=590&ch=590&hash=F423E0780284160377EDBB4DA278D6947D7D2D2F',
+                                    '650': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-skin-genius-1.jpg?cx=0.5&cy=0.44&cw=570&ch=600&hash=E39923DE46A58A9560F839771C3F28D39B57C0E1',
+                                    '999': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-skin-genius-1.jpg?cx=0.5&cy=0.44&cw=415&ch=600&hash=BEAF67918B7B6CA0A34BE8B66E05B13E671DB4E6'}">
+                            <div class="contentPush__click"></div>
+                                    <a href="/skin-genius-landing-page"
+                                       target=""
+                                       class="contentPush__cta button -secondaryAnimated"
+                                       data-tag-wrapper
+                                       data-tag-category="__pagecategory__"
+                                       data-tag-action="select::content push"
+                                       data-tag-label="Online Tools &amp; Services::SKIN GENIUS"
+                                       v-tag:useractionevent.dom>
+                                        SKIN GENIUS
+                                    </a>
+                    </li>
+                        <li class="contentPush__item" v-clickextension="'div'"
+                            v-background="{
+                                      '0': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-ingredients.jpg?cx=0.35&cy=0.29&cw=315&ch=395&hash=C46563D0038D799E97AD9CF7F1CC5633A04AC118',
+                                    '376': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-ingredients.jpg?cx=0.35&cy=0.29&cw=590&ch=590&hash=2481E1181520F304D43D3D93D7136B636ED2FB95',
+                                    '650': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-ingredients.jpg?cx=0.35&cy=0.29&cw=570&ch=600&hash=CE71A2A01E4D516B52819601ECA1FBEB57277B87',
+                                    '999': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-ingredients.jpg?cx=0.35&cy=0.29&cw=415&ch=600&hash=B45894C43BDE5B9462F0463004EBA87CF8CB1011'}">
+                            <div class="contentPush__click"></div>
+                                    <a href="/ingredient-library"
+                                       target=""
+                                       class="contentPush__cta button -secondaryAnimated"
+                                       data-tag-wrapper
+                                       data-tag-category="__pagecategory__"
+                                       data-tag-action="select::content push"
+                                       data-tag-label="Online Tools &amp; Services::INGREDIENT LIBRARY"
+                                       v-tag:useractionevent.dom>
+                                        INGREDIENT LIBRARY
+                                    </a>
+                    </li>
+                        <li class="contentPush__item" v-clickextension="'div'"
+                            v-background="{
+                                      '0': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-vto.jpg?cx=0.5&cy=0.52&cw=315&ch=395&hash=41A55A17B10A9C7FB3D232119AF0F31FE10A5670',
+                                    '376': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-vto.jpg?cx=0.5&cy=0.52&cw=590&ch=590&hash=60D4EBE0050AE96142FD19A70E9420499984B61F',
+                                    '650': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-vto.jpg?cx=0.5&cy=0.52&cw=570&ch=600&hash=A28FC7FE56DE3B02EA2C8CAA54C9C6DD9C78E49D',
+                                    '999': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-vto.jpg?cx=0.5&cy=0.52&cw=415&ch=600&hash=9E2B034ED1582BB8E247105CCC54E1E94AEC88CE'}">
+                            <div class="contentPush__click"></div>
+                                    <a href="/virtual-try-on-makeup"
+                                       target=""
+                                       class="contentPush__cta button -secondaryAnimated"
+                                       data-tag-wrapper
+                                       data-tag-category="__pagecategory__"
+                                       data-tag-action="select::content push"
+                                       data-tag-label="Online Tools &amp; Services::MAKEUP TRY-ON"
+                                       v-tag:useractionevent.dom>
+                                        MAKEUP TRY-ON
+                                    </a>
+                    </li>
+                        <li class="contentPush__item" v-clickextension="'div'"
+                            v-background="{
+                                      '0': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-hair-concierge.jpg?cx=0.46&cy=0.36&cw=315&ch=395&hash=DE481705348D484F36C7A84185852BD1EF29876D',
+                                    '376': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-hair-concierge.jpg?cx=0.46&cy=0.36&cw=590&ch=590&hash=BD829AE6E2B338ECDF05D5B4D719C761E92E84FD',
+                                    '650': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-hair-concierge.jpg?cx=0.46&cy=0.36&cw=570&ch=600&hash=E69B6358DF8EF730CFB098A940C66EB02A9FA5EB',
+                                    '999': '/-/media/project/loreal/brand-sites/oap/americas/us/homepage/content-push/loreal-paris-homepage-hair-concierge.jpg?cx=0.46&cy=0.36&cw=415&ch=600&hash=75BE8C7E0435B15272A7F61B9435EBCA0A153888'}">
+                            <div class="contentPush__click"></div>
+                                    <a href="/hair-color-concierge"
+                                       target=""
+                                       class="contentPush__cta button -secondaryAnimated"
+                                       data-tag-wrapper
+                                       data-tag-category="__pagecategory__"
+                                       data-tag-action="select::content push"
+                                       data-tag-label="Online Tools &amp; Services::HAIR COLOR CONCIERGE"
+                                       v-tag:useractionevent.dom>
+                                        HAIR COLOR CONCIERGE
+                                    </a>
+                    </li>
+
+        </ul>
+</div>
+
+
+    
+    
+
+    <oap-slider theme="brand" layout="content" :skip-link="{text: 'Skip the slider: Face Care Articles', skippedText: ''}" id="slider-6c473f4c-897e-48ef-8180-88c52d59f16e">
+    <template slot="copy">
+        <h2 class="oap-subtitle-1">Discover more tips & tricks</h2>
+        <h2 class="oap-h1">Star Keep your skin happy</h2>
+    </template>
+
+    <rr-related-articles :rich-relevance-enabled="false"
+                         placement-type=""
+                         tag-category="__pageCategory__"
+                         tag-action="related article">
+        <template>
+            <ul class="oap-slider__list">
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="Loreal Paris BMAG Article 10 Face Mask Mistakes You Could Be Making D" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles/face-mask-mistakes-to-avoid/loreal-paris-bmag-article-10-face-mask-mistakes-you-could-be-making-d.jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=71A5A721486446DF3BB979E224E10D03D07D51D3 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-essentials/face-mask-mistakes-to-avoid"
+                                           title="10 Face Mask Mistakes You Could Be Making"
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::10 face mask mistakes you could be making"
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">10 Face Mask Mistakes You Could Be Making</span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="Difference Between BB And CC Cream Hero Bmag" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2021/january/1-20/difference-between-bbcream-and-cccream/difference-between-bb-and-cc-cream-hero-bmag.jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=CFB1D35FCB30489397EF8ACC410E4FCC26166057 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-essentials/difference-between-bb-cream-and-cc-cream"
+                                           title="What&#39;s the Difference Between BB and CC Cream?"
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::what&#39;s the difference between bb and cc cream?"
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">What&#39;s the Difference Between BB and CC Cream?</span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="What Is Fungal Acne Hero Bmag (1)" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2021/february/2-26/fungal-acne/what-is-fungal-acne-hero-bmag-(1).jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=9A15D63323531DA91F444D083FF1931231FA5A75 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-concerns/fungal-acne"
+                                           title="What is Fungal Acne? Causes, Symptoms And How To Treat It"
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::what is fungal acne? causes, symptoms and how to treat it"
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">What is Fungal Acne? Causes, Symptoms And How To Treat It</span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="Loreal Paris BMAG Article How To Find The Right Clay Mask For Your Skin Type D" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles/clay-masks-for-every-skin-type/loreal-paris-bmag-article-how-to-find-the-right-clay-mask-for-your-skin-type-d.jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=743E0D6BD2EF37ACB908C424C5A608D58691B978 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-essentials/clay-masks-for-every-skin-type"
+                                           title="How to Find the Right Clay Mask for Your Skin Type "
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::how to find the right clay mask for your skin type "
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">How to Find the Right Clay Mask for Your Skin Type </span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="LOreal Paris BMAG Article Combination Skin What Is It And How To Care For It D" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles-2/what-combination-skin/loreal-paris-bmag-article-combination-skin-what-is-it-and-how-to-care-for-it-d.jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=051355E6316855231F4A710E19F6401A6DCE1A8B 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-concerns/what-combination-skin"
+                                           title="How to Tell If You Have Combination Skin, And How To Treat It "
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::how to tell if you have combination skin, and how to treat it "
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">How to Tell If You Have Combination Skin, And How To Treat It </span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="Loreal Paris BMAG Article 10 Mistakes You Could Be Making With Your Eye Cream D" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles/avoid-these-common-eye-cream-mistakes/loreal-paris-bmag-article-10-mistakes-you-could-be-making-with-your-eye-cream-d.jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=B3009A653163564A8EADA9CB35867B59E98A8820 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-concerns/avoid-these-common-eye-cream-mistakes"
+                                           title="8 Mistakes To Avoid Making With Your Eye Cream"
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::8 mistakes to avoid making with your eye cream"
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">8 Mistakes To Avoid Making With Your Eye Cream</span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="LOreal Paris BMAG Article Ways to Keep Your Skin Hydrated D" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles/hydrated-skin/loreal-paris-bmag-article-ways-to-keep-your-skin-hydrated-d.jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=1DB5108CEC51CCC89F1E4B9684BB082EC924770E 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-concerns/hydrated-skin"
+                                           title="13 Ways To Keep Your Skin Hydrated"
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::13 ways to keep your skin hydrated"
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">13 Ways To Keep Your Skin Hydrated</span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="Loreal Paris Bmag Article 7 Tips For Dealing With Forehead Wrinkles D" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles-2/forehead-wrinkles/loreal-paris-bmag-article-7-tips-for-dealing-with-forehead-wrinkles-d.jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=05AD765D7B1D56AE8C47033B77D2082FD0A15AA1 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-concerns/forehead-wrinkles"
+                                           title="7 Tips for Dealing with Forehead Wrinkles "
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::7 tips for dealing with forehead wrinkles "
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">7 Tips for Dealing with Forehead Wrinkles </span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+                        <li class="oap-slider__item">
+                            <article class="oap-card oap-card--type-content" data-tag-wrapper>
+                                <div class="oap-card__thumbnail">
+                                    <img alt="Cold Vs Hot Water For Your Skin Hero Bmag" aria-hidden="true" class="lazyload" data-sizes="" data-srcset="/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2021/march/3-5/cold-vs-hot-water-the-secret-for-your-best-skin/cold-vs-hot-water-for-your-skin-hero-bmag.jpg?cx=0.49&amp;cy=0.54&amp;cw=276&amp;ch=369&amp;hash=C70DB342F49E1429D32B7A5222B7F7898394A4EA 276w" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+                                </div>
+                                <header>
+                                    <h3 class="oap-card__heading">
+                                        <a class="oap-card__link"
+                                           href="/beauty-magazine/skin-care/skin-care-essentials/cold-vs-hot-water-the-secret-for-your-best-skin"
+                                           title="Cold Water vs. Hot Water: What&#39;s the Best for Your Skin?"
+                                           data-tag-category="__pageCategory__"
+                                           data-tag-action="related article"
+                                           data-tag-label="select::cold water vs. hot water: what&#39;s the best for your skin?"
+                                           v-tag:useractionevent.dom>
+                                            <span class="oap-card__title">Cold Water vs. Hot Water: What&#39;s the Best for Your Skin?</span>
+                                        </a>
+                                    </h3>
+                                </header>
+                            </article>
+                        </li>
+
+            </ul>
+        </template>
+    </rr-related-articles>
+
+    <template slot="link">
+
+        <a href="/beauty-magazine"
+           class="oap-button -secondary"
+           data-tag-wrapper
+           data-tag-action="related article"
+               data-tag-label="select::see all articles"
+           data-tag-category="__pageCategory__"
+           v-tag:useractionevent.dom>
+            see all articles
+        </a>
+    </template>
+</oap-slider>
+
+    <noscript>
+        <section class="oap-slider-noscript">
+            <ul class="oap-slider-noscript__list">
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-essentials/face-mask-mistakes-to-avoid" class="oap-slider-noscript__link">10 Face Mask Mistakes You Could Be Making</a></li>
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-essentials/difference-between-bb-cream-and-cc-cream" class="oap-slider-noscript__link">What&#39;s the Difference Between BB and CC Cream?</a></li>
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-concerns/fungal-acne" class="oap-slider-noscript__link">What is Fungal Acne? Causes, Symptoms And How To Treat It</a></li>
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-essentials/clay-masks-for-every-skin-type" class="oap-slider-noscript__link">How to Find the Right Clay Mask for Your Skin Type </a></li>
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-concerns/what-combination-skin" class="oap-slider-noscript__link">How to Tell If You Have Combination Skin, And How To Treat It </a></li>
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-concerns/avoid-these-common-eye-cream-mistakes" class="oap-slider-noscript__link">8 Mistakes To Avoid Making With Your Eye Cream</a></li>
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-concerns/hydrated-skin" class="oap-slider-noscript__link">13 Ways To Keep Your Skin Hydrated</a></li>
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-concerns/forehead-wrinkles" class="oap-slider-noscript__link">7 Tips for Dealing with Forehead Wrinkles </a></li>
+                    <li class="oap-slider-noscript__item"><a href="/beauty-magazine/skin-care/skin-care-essentials/cold-vs-hot-water-the-secret-for-your-best-skin" class="oap-slider-noscript__link">Cold Water vs. Hot Water: What&#39;s the Best for Your Skin?</a></li>
+            </ul>
+        </section>
+    </noscript>
+
+
+
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Thing",
+    "subjectOf": {
+    "@type": "ItemList",
+    "itemListElement": [
+        
+            {
+            "@type":"ListItem",
+            "position": 1,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-essentials/face-mask-mistakes-to-avoid",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-essentials/face-mask-mistakes-to-avoid"
+            },
+            "headline":"face-mask-mistakes-to-avoid",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles/face-mask-mistakes-to-avoid/loreal-paris-bmag-article-10-face-mask-mistakes-you-could-be-making-d.jpg",
+            "height":720,
+            "width":1280
+            },
+            "datePublished": "2021-05-01T12:38:15+00:00",
+            "dateModified": "2021-07-13T18:06:35+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            },        
+            {
+            "@type":"ListItem",
+            "position": 2,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-essentials/difference-between-bb-cream-and-cc-cream",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-essentials/difference-between-bb-cream-and-cc-cream"
+            },
+            "headline":"difference-between-bb-cream-and-cc-cream",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2021/january/1-20/difference-between-bbcream-and-cccream/difference-between-bb-and-cc-cream-hero-bmag.jpg",
+            "height":1080,
+            "width":1920
+            },
+            "datePublished": "2021-05-01T12:41:32+00:00",
+            "dateModified": "2021-07-13T18:06:42+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            },        
+            {
+            "@type":"ListItem",
+            "position": 3,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/fungal-acne",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/fungal-acne"
+            },
+            "headline":"fungal-acne",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2021/february/2-26/fungal-acne/what-is-fungal-acne-hero-bmag-(1).jpg",
+            "height":1080,
+            "width":1920
+            },
+            "datePublished": "2021-05-01T12:02:06+00:00",
+            "dateModified": "2021-07-13T17:53:31+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            },        
+            {
+            "@type":"ListItem",
+            "position": 4,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-essentials/clay-masks-for-every-skin-type",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-essentials/clay-masks-for-every-skin-type"
+            },
+            "headline":"clay-masks-for-every-skin-type",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles/clay-masks-for-every-skin-type/loreal-paris-bmag-article-how-to-find-the-right-clay-mask-for-your-skin-type-d.jpg",
+            "height":720,
+            "width":1280
+            },
+            "datePublished": "2021-05-01T12:40:52+00:00",
+            "dateModified": "2021-07-13T18:06:39+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            },        
+            {
+            "@type":"ListItem",
+            "position": 5,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/what-combination-skin",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/what-combination-skin"
+            },
+            "headline":"what-combination-skin",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles-2/what-combination-skin/loreal-paris-bmag-article-combination-skin-what-is-it-and-how-to-care-for-it-d.jpg",
+            "height":720,
+            "width":1280
+            },
+            "datePublished": "2021-05-01T12:08:50+00:00",
+            "dateModified": "2021-07-13T18:05:16+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            },        
+            {
+            "@type":"ListItem",
+            "position": 6,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/avoid-these-common-eye-cream-mistakes",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/avoid-these-common-eye-cream-mistakes"
+            },
+            "headline":"avoid-these-common-eye-cream-mistakes",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles/avoid-these-common-eye-cream-mistakes/loreal-paris-bmag-article-10-mistakes-you-could-be-making-with-your-eye-cream-d.jpg",
+            "height":720,
+            "width":1280
+            },
+            "datePublished": "2021-05-01T12:06:19+00:00",
+            "dateModified": "2021-07-13T17:53:43+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            },        
+            {
+            "@type":"ListItem",
+            "position": 7,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/hydrated-skin",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/hydrated-skin"
+            },
+            "headline":"hydrated-skin",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles/hydrated-skin/loreal-paris-bmag-article-ways-to-keep-your-skin-hydrated-d.jpg",
+            "height":1080,
+            "width":1920
+            },
+            "datePublished": "2021-05-01T12:06:36+00:00",
+            "dateModified": "2021-07-13T18:05:10+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            },        
+            {
+            "@type":"ListItem",
+            "position": 8,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/forehead-wrinkles",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-concerns/forehead-wrinkles"
+            },
+            "headline":"forehead-wrinkles",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/articles-2/forehead-wrinkles/loreal-paris-bmag-article-7-tips-for-dealing-with-forehead-wrinkles-d.jpg",
+            "height":1080,
+            "width":1920
+            },
+            "datePublished": "2021-05-01T12:06:03+00:00",
+            "dateModified": "2021-07-13T17:53:43+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            },        
+            {
+            "@type":"ListItem",
+            "position": 9,
+            "url" : "https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-essentials/cold-vs-hot-water-the-secret-for-your-best-skin",
+            "item":{
+            "@type": "Article",
+            "mainEntityOfPage":{
+            "@type":"WebPage",
+            "@id":"https://www.lorealparisusa.com//beauty-magazine/skin-care/skin-care-essentials/cold-vs-hot-water-the-secret-for-your-best-skin"
+            },
+            "headline":"cold-vs-hot-water-the-secret-for-your-best-skin",
+            "image":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/americas/us/beauty-magazine/2021/march/3-5/cold-vs-hot-water-the-secret-for-your-best-skin/cold-vs-hot-water-for-your-skin-hero-bmag.jpg",
+            "height":1080,
+            "width":1920
+            },
+            "datePublished": "2021-05-01T12:24:08+00:00",
+            "dateModified": "2021-07-13T18:05:51+00:00",
+            "author": {
+            "@type": "Brand",
+            "name": "L'Oréal Paris"
+            },
+            "publisher":{
+            "@type":"Organization",
+            "name":"L'Oréal Paris",
+            "logo":{
+            "@type":"ImageObject",
+            "url":"https://www.lorealparisusa.com/-/media/project/loreal/brand-sites/oap/shared/baseline/identity/loreal-paris-logo.png",
+            "width":189,
+            "height":60
+            }
+            },
+            "description":""
+            }
+            }    ]
+    }
+    }
+</script>
+
+    <oap-slider theme="default" layout="product" id="slider-product-9bec5ea2-e4b3-4982-9d14-4668ed2994d9">
+        <template slot="copy">
+
+            <h2 class="oap-slider__title">Improve your routine</h2>
+            <h2 class="oap-slider__description">Show your new look more love:</h2>
+        </template>
+
+        <rr-related-products :rich-relevance-enabled="false"
+                             placement-type=""
+                             view-product-label="View Product"
+                             average-rating-label="Average rating:"
+                             product-rating-maximum="5">
+            <ul class="oap-slider__list">
+                    <li class="oap-slider__item">
+                        <oap-card type='product'
+                                  :item='{&quot;id&quot;:&quot;071249377512&quot;,&quot;type&quot;:&quot;product&quot;,&quot;brand&quot;:&quot;&quot;,&quot;title&quot;:&quot;1.5% Pure Hyaluronic Acid Serum&quot;,&quot;image&quot;:{&quot;fileName&quot;:&quot;/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/facial-moisturizers/revitalift-derm-intensives-pure-hyaluronic-acid-serum/lorealparisusa-derm-intensive-hyaluronic-acid-pdp.png&quot;,&quot;packshotClass&quot;:&quot;oap-packshot--small&quot;,&quot;alt&quot;:&quot;Lorealparisusa Derm Intensive Hyaluronic Acid PDP&quot;,&quot;sizes&quot;:&quot;50vw, (min-width: 650px) 33vw, (min-width: 900) 25vw&quot;,&quot;resolutions&quot;:[{&quot;width&quot;:60,&quot;hash&quot;:&quot;2117002F516110C0E28E0131FF2E99B93E415394&quot;},{&quot;width&quot;:80,&quot;hash&quot;:&quot;7D8BC7224278E98158C263F763A573C4D6718ED9&quot;},{&quot;width&quot;:100,&quot;hash&quot;:&quot;E3969782B8EA03189464527902B222B0B8625A85&quot;}],&quot;fallbackSize&quot;:{&quot;width&quot;:60,&quot;hash&quot;:&quot;2117002F516110C0E28E0131FF2E99B93E415394&quot;}},&quot;url&quot;:&quot;/skin-care/facial-moisturizers/revitalift-derm-intensives-pure-hyaluronic-acid-serum&quot;,&quot;action&quot;:{&quot;text&quot;:&quot;View Product&quot;},&quot;tag&quot;:{&quot;common&quot;:{&quot;data&quot;:{&quot;category&quot;:&quot;Skin Care&quot;,&quot;label&quot;:&quot;Product Click&quot;},&quot;product&quot;:{&quot;brand&quot;:null,&quot;id&quot;:&quot;071249377512&quot;,&quot;position&quot;:0,&quot;dimension35&quot;:&quot;1 fl. oz.&quot;,&quot;dimension36&quot;:&quot;&quot;,&quot;dimension38&quot;:&quot;4.6&quot;,&quot;dimension48&quot;:&quot;071249377512&quot;,&quot;dimension49&quot;:&quot;not present&quot;,&quot;dimension50&quot;:&quot;&quot;,&quot;dimension91&quot;:&quot;none&quot;}},&quot;productclick&quot;:{&quot;data&quot;:{&quot;list&quot;:&quot;highlight&quot;}},&quot;productimpression&quot;:{&quot;product&quot;:{&quot;list&quot;:&quot;highlight&quot;}}},&quot;rating&quot;:{&quot;bv&quot;:true,&quot;max&quot;:5,&quot;score&quot;:5,&quot;srText&quot;:&quot;Average rating:&quot;}}'
+                                  :layouts='["in-slider"]' v-is-intersecting-x>
+                        </oap-card>
+                    </li>
+                    <li class="oap-slider__item">
+                        <oap-card type='product'
+                                  :item='{&quot;id&quot;:&quot;071249377505&quot;,&quot;type&quot;:&quot;product&quot;,&quot;brand&quot;:&quot;&quot;,&quot;title&quot;:&quot;10% Pure Vitamin C Serum&quot;,&quot;image&quot;:{&quot;fileName&quot;:&quot;/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/facial-moisturizers/revitalift-derm-intensives-10-pure-vitamin-c-serum/lorealparisusa-derm-intensive-10_-pure-vitamin-c-serum-pdp.png&quot;,&quot;packshotClass&quot;:&quot;oap-packshot--small&quot;,&quot;alt&quot;:&quot;Lorealparisusa Derm Intensive 10  Pure Vitamin C Serum PDP&quot;,&quot;sizes&quot;:&quot;50vw, (min-width: 650px) 33vw, (min-width: 900) 25vw&quot;,&quot;resolutions&quot;:[{&quot;width&quot;:60,&quot;hash&quot;:&quot;A0F1C258682F1591CE1C5BCC6FBB78DB180CD344&quot;},{&quot;width&quot;:80,&quot;hash&quot;:&quot;779A26BF1E6DB3D95ADEB232E7989684FDE9ECA9&quot;},{&quot;width&quot;:100,&quot;hash&quot;:&quot;E3945810D6A444DD18FA5AED4F1D5ED9B91887FE&quot;}],&quot;fallbackSize&quot;:{&quot;width&quot;:60,&quot;hash&quot;:&quot;A0F1C258682F1591CE1C5BCC6FBB78DB180CD344&quot;}},&quot;url&quot;:&quot;/skin-care/facial-moisturizers/revitalift-derm-intensives-10-pure-vitamin-c-serum&quot;,&quot;action&quot;:{&quot;text&quot;:&quot;View Product&quot;},&quot;tag&quot;:{&quot;common&quot;:{&quot;data&quot;:{&quot;category&quot;:&quot;Skin Care&quot;,&quot;label&quot;:&quot;Product Click&quot;},&quot;product&quot;:{&quot;brand&quot;:null,&quot;id&quot;:&quot;071249377505&quot;,&quot;position&quot;:0,&quot;dimension35&quot;:&quot;1 fl. oz.&quot;,&quot;dimension36&quot;:&quot;&quot;,&quot;dimension38&quot;:&quot;4.4&quot;,&quot;dimension48&quot;:&quot;071249377505&quot;,&quot;dimension49&quot;:&quot;not present&quot;,&quot;dimension50&quot;:&quot;&quot;,&quot;dimension91&quot;:&quot;none&quot;}},&quot;productclick&quot;:{&quot;data&quot;:{&quot;list&quot;:&quot;highlight&quot;}},&quot;productimpression&quot;:{&quot;product&quot;:{&quot;list&quot;:&quot;highlight&quot;}}},&quot;rating&quot;:{&quot;bv&quot;:true,&quot;max&quot;:5,&quot;score&quot;:4,&quot;srText&quot;:&quot;Average rating:&quot;}}'
+                                  :layouts='["in-slider"]' v-is-intersecting-x>
+                        </oap-card>
+                    </li>
+                    <li class="oap-slider__item">
+                        <oap-card type='product'
+                                  :item='{&quot;id&quot;:&quot;071249403600&quot;,&quot;type&quot;:&quot;product&quot;,&quot;brand&quot;:&quot;&quot;,&quot;title&quot;:&quot;10% Pure Glycolic Acid Serum&quot;,&quot;image&quot;:{&quot;fileName&quot;:&quot;/-/media/project/loreal/brand-sites/oap/americas/us/products/skin-care/face-serums/revitalift-derm-intensives-10-pure-glycolic-acid-serum/lorealparisusa-derm-intensive-pure-glycolic-acid-serum-pdp.png&quot;,&quot;packshotClass&quot;:&quot;oap-packshot--small&quot;,&quot;alt&quot;:&quot;Lorealparisusa Derm Intensive Pure Glycolic Acid Serum PDP&quot;,&quot;sizes&quot;:&quot;50vw, (min-width: 650px) 33vw, (min-width: 900) 25vw&quot;,&quot;resolutions&quot;:[{&quot;width&quot;:60,&quot;hash&quot;:&quot;89FFEC504F77897245B7B11ACE670F1B045B7DC3&quot;},{&quot;width&quot;:80,&quot;hash&quot;:&quot;A60F599D89947E95A1E4EFF47A5C25858F25EC6D&quot;},{&quot;width&quot;:100,&quot;hash&quot;:&quot;E90BEAF5E34125AE599746C05F59A4EBE990DDFF&quot;}],&quot;fallbackSize&quot;:{&quot;width&quot;:60,&quot;hash&quot;:&quot;89FFEC504F77897245B7B11ACE670F1B045B7DC3&quot;}},&quot;url&quot;:&quot;/skin-care/face-serum/revitalift-derm-intensives-10-pure-glycolic-acid-serum&quot;,&quot;action&quot;:{&quot;text&quot;:&quot;View Product&quot;},&quot;tag&quot;:{&quot;common&quot;:{&quot;data&quot;:{&quot;category&quot;:&quot;Skin Care&quot;,&quot;label&quot;:&quot;Product Click&quot;},&quot;product&quot;:{&quot;brand&quot;:null,&quot;id&quot;:&quot;071249403600&quot;,&quot;position&quot;:0,&quot;dimension35&quot;:&quot;1 oz.&quot;,&quot;dimension36&quot;:&quot;&quot;,&quot;dimension38&quot;:&quot;4.6&quot;,&quot;dimension48&quot;:&quot;071249403600&quot;,&quot;dimension49&quot;:&quot;not present&quot;,&quot;dimension50&quot;:&quot;&quot;,&quot;dimension91&quot;:&quot;none&quot;}},&quot;productclick&quot;:{&quot;data&quot;:{&quot;list&quot;:&quot;highlight&quot;}},&quot;productimpression&quot;:{&quot;product&quot;:{&quot;list&quot;:&quot;highlight&quot;}}},&quot;rating&quot;:{&quot;bv&quot;:true,&quot;max&quot;:5,&quot;score&quot;:5,&quot;srText&quot;:&quot;Average rating:&quot;}}'
+                                  :layouts='["in-slider"]' v-is-intersecting-x>
+                        </oap-card>
+                    </li>
+            </ul>
+        </rr-related-products>
+
+        <template slot="link">
+            <a href="/makeup" class="oap-button -secondary"
+               data-tag-wrapper
+               data-tag-action="Improve your routine"
+               data-tag-label="select::see all products"
+               data-tag-category="__pagecategory__"
+               v-tag:useractionevent.dom>
+                makeup
+            </a>
+        </template>
+    </oap-slider>
+
+    
+
+
+        <nav role="navigation" aria-label="Breadcrumb" class="breadcrumb">
+            <ol class="breadcrumb__inner">
+                        <li class="breadcrumb__item" data-tag-wrapper>
+                            <a
+                                data-tag-ecommerce="undefined"
+                                data-tag-category="__pagecategory__"
+                                data-tag-action="breadcrumb"
+                                data-tag-label="home"
+                                v-tag:useractionevent.dom
+                                href="/">
+                                <span>Home</span>
+                            </a>
+                            <span class="breadcrumb__seperator">/</span>
+                        </li>
+                        <li class="breadcrumb__item">
+                            <strong>
+                                <span>404 Not Found Page</span>
+                            </strong>
+                        </li>
+                
+            </ol>
+        </nav>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                
+                    {
+                    "@type":"ListItem",
+                    "position": 1,
+                    "item": {
+                    "@id": "/",
+                    "name": "Home"
+                    }
+                    }
+                    ,
+                
+                    {
+                    "@type":"ListItem",
+                    "position": 2,
+                    "item": {
+                    "@id": "https://www.lorealparisusa.com/page-not-found",
+                    "name": "404 Not Found Page"
+                    }
+                    }
+            ]
+            }
+        </script>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+            
+        </main>
+        
+
+
+<footer class="footer" role="contentinfo">
+    <div class="footer__topContent container">
+        <div class="row">
+            <div class="footer__collapsables col-lg-8">
+                <div class="row">
+                    
+    <collapsable tagname="section" class="col-lg-3" identifier="footer-section-more-to-explore-32BADFB5-8E1D-46F4-B2BD-831A013C82F1">
+        <span slot="indicator" class="collapsable__indicator"></span>
+        <p slot="title" class="collapsable__title" id="footer-section-more-to-explore-32BADFB5-8E1D-46F4-B2BD-831A013C82F1">More to Explore</p>
+
+        <ul slot="content" class="collapsable__content">
+                <li>
+<a href="/about-us" >About us</a>                </li>
+                <li>
+<a href="/beauty-magazine" >Beauty Magazine</a>                </li>
+                <li>
+<a href="/the-other-side-of-loreal" >The Other Side</a>                </li>
+                <li>
+<a href="/virtual-try-on-makeup" >Virtual Try-On</a>                </li>
+                <li>
+<a href="/skin-genius-landing-page" >Skin Genius</a>                </li>
+        </ul>
+    </collapsable>
+    <collapsable tagname="section" class="col-lg-3" identifier="footer-section-beauty-magazine-061E9444-7A2E-470B-B629-BD157B1DA253">
+        <span slot="indicator" class="collapsable__indicator"></span>
+        <p slot="title" class="collapsable__title" id="footer-section-beauty-magazine-061E9444-7A2E-470B-B629-BD157B1DA253">Beauty Magazine</p>
+
+        <ul slot="content" class="collapsable__content">
+                <li>
+<a href="/beauty-magazine" >All Articles</a>                </li>
+                <li>
+<a href="/beauty-magazine/makeup" >Makeup Articles</a>                </li>
+                <li>
+<a href="/beauty-magazine/skin-care" >Skincare Articles</a>                </li>
+                <li>
+<a href="/beauty-magazine/hair-color" >Hair Color Articles</a>                </li>
+                <li>
+<a href="/beauty-magazine/hair-style" >Hair Style Articles</a>                </li>
+                <li>
+<a href="/beauty-magazine/hair-care" >Hair Care Articles</a>                </li>
+        </ul>
+    </collapsable>
+    <collapsable tagname="section" class="col-lg-3" identifier="footer-section-customer-service-212A9C5D-217B-471B-A948-3AFEDD1A1D62">
+        <span slot="indicator" class="collapsable__indicator"></span>
+        <p slot="title" class="collapsable__title" id="footer-section-customer-service-212A9C5D-217B-471B-A948-3AFEDD1A1D62">Customer Service</p>
+
+        <ul slot="content" class="collapsable__content">
+                <li>
+<a href="/contact-us" >Contact Us</a>                </li>
+                <li>
+                </li>
+                <li>
+<a href="/my-account" >My Account</a>                </li>
+                <li>
+                </li>
+        </ul>
+    </collapsable>
+
+
+
+
+
+                    
+
+
+<collapsable tagname="section" class="col-lg-3" :social="true" identifier="footer-section-Social">
+    <span slot="indicator" class="collapsable__indicator"></span>
+    <p slot="title" class="collapsable__title" id="footer-section-Social">Social</p>
+    <ul slot="content" class="collapsable__content">
+
+            <li>
+                        <a href="https://www.instagram.com/lorealparis/" target="_blank" rel="noopener noreferrer" aria-label="Instagram (new window)"
+                           data-tag-wrapper
+                           data-tag-ecommerce="undefined"
+                           data-tag-network="instagram"
+                           data-tag-action="share"
+                           v-tag:socialintevent.dom>
+                            <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/navigationext/l-oreal-paris-instagram.svg?h=100&amp;w=200&amp;la=en-US&amp;hash=8540D3B6857823CC3A4FC9E018BE6A2CAC32D23A" height="100" class="footer__socialIcon" role="img" alt="L Oreal Paris Instagram" width="200" />
+                            <span class="footer__iconName">Instagram</span>
+                        </a>
+            </li>
+            <li>
+                        <a href="https://www.facebook.com/LOrealParisUSA/" target="_blank" rel="noopener noreferrer" aria-label="Facebook (new window)"
+                           data-tag-wrapper
+                           data-tag-ecommerce="undefined"
+                           data-tag-network="facebook"
+                           data-tag-action="share"
+                           v-tag:socialintevent.dom>
+                            <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/navigationext/l-oreal-paris-facebook.svg?h=100&amp;w=200&amp;la=en-US&amp;hash=926518BD682A42A04C798DF6EE0175C0EDC43A76" height="100" class="footer__socialIcon" role="img" alt="L Oreal Paris Facebook" width="200" />
+                            <span class="footer__iconName">Facebook</span>
+                        </a>
+            </li>
+            <li>
+                        <a href="https://twitter.com/lorealparisusa" target="_blank" rel="noopener noreferrer" aria-label="Twitter (new window)"
+                           data-tag-wrapper
+                           data-tag-ecommerce="undefined"
+                           data-tag-network="twitter"
+                           data-tag-action="share"
+                           v-tag:socialintevent.dom>
+                            <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/navigationext/l-oreal-paris-twitter.svg?h=100&amp;w=200&amp;la=en-US&amp;hash=EF3B652A1702FBE55ACCDEAF2ABF961CCB3F1156" height="100" class="footer__socialIcon" role="img" alt="L Oreal Paris Twitter" width="200" />
+                            <span class="footer__iconName">Twitter</span>
+                        </a>
+            </li>
+            <li>
+                        <a href="https://www.youtube.com/user/lorealparisnyc" target="_blank" rel="noopener noreferrer" aria-label="YouTube (new window)"
+                           data-tag-wrapper
+                           data-tag-ecommerce="undefined"
+                           data-tag-network="youtube"
+                           data-tag-action="share"
+                           v-tag:socialintevent.dom>
+                            <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/navigationext/l-oreal-paris-youtube.svg?h=100&amp;w=200&amp;la=en-US&amp;hash=F0939BE48C3D4FA3E5B8DB6959F02C23773BC738" height="100" class="footer__socialIcon" role="img" alt="L Oreal Paris Youtube" width="200" />
+                            <span class="footer__iconName">YouTube</span>
+                        </a>
+            </li>
+    </ul>
+</collapsable>
+
+                </div>
+            </div>
+
+            <section class="footer__newsletter col-lg-3 offset-lg-1">
+                
+            </section>
+        </div>
+    </div>
+    
+    <div class="footer__bottomContent container">
+        <img role="img" class="footer__mapImage" src="/themes/OAP/Images/footer_map.png" alt="L'Oréal Paris map">
+        <div class="row">
+            
+
+
+<section class="footer__logoContry">
+    <div class="footer__logoWrapper col-6">
+        <img src="/-/media/project/loreal/brand-sites/oap/shared/baseline/navigationext/loreal-paris-white-logo.svg?la=en-US&amp;hash=DF5A71B4C2F2E19584AC097C6965EC6AAE4AF16E" class="footer__logoImage" alt="Loreal Paris White Logo" />
+    </div>
+
+        <div class="footer__countrySelector col-6">
+
+        <p class="footer__countrySelectorTitle">
+<a href="https://www.lorealparis.com" target="_blank" aria-label="Change Country (new window)" >Change Country</a>        </p>
+    </div>
+
+</section>
+
+<section class="footer__languageSwitch">
+</section>
+
+            <section class="footer__info">
+                
+<a href="/privacy-policy" class="footer__infoItem " >Privacy Policy</a>            <a href="" class="footer__infoItem OTCookieConsentFooter">Cookie Settings</a>
+<a href="/terms-of-use" class="footer__infoItem " >Terms and Conditions</a><a href="/user-content-permission-terms" class="footer__infoItem " >User Content Permission Terms</a>
+                
+<p class="footer__infoItem">© 2021 L'Oréal Paris</p>
+
+            </section>
+        </div>
+    </div>
+</footer>
+
+
+
+        
+    </div>
+    
+
+
+
+        <script type="text/javascript" src="/themes/OAP/bundle.js?v=1.21.2-hotfix00000002"></script>
+                <!-- Shade finder -->
+    
+    <!-- Shade finder -->
+    <!-- Sprinklr API call -->
+    
+    <!-- Sprinklr API call -->
+    <!-- Messenger Chat -->
+    
+    <!-- Messenger Chat call -->
+    <!-- Iadvize custom tag -->
+    
+    <!-- Iadvize custom tag -->
+    <!-- Iadvize main tag -->
+    
+    <!-- Iadvize main tag -->
+    <!-- /#wrapper -->
+</body>
+</html>
